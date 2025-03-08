@@ -1,0 +1,1110 @@
+2025-03-08 21:39:03,598 - INFO - Files and directories initialized successfully.
+2025-03-08 21:39:03,598 - INFO - Testing pagination URLs...
+2025-03-08 21:39:03,599 - INFO - ====== WebDriver manager ======
+2025-03-08 21:39:05,043 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:39:05,298 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:39:05,485 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:39:11,541 - INFO - Pagination check: SUCCESS - Different brands found on page 1 and page 2
+2025-03-08 21:39:13,686 - INFO - ====== WebDriver manager ======
+2025-03-08 21:39:15,171 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:39:19,407 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:39:19,515 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:39:23,712 - INFO - Detected 12 total pages from pagination buttons
+2025-03-08 21:39:25,943 - INFO - Processing page 1 of 12
+2025-03-08 21:39:25,947 - INFO - ====== WebDriver manager ======
+2025-03-08 21:39:27,337 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:39:31,548 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:39:31,644 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:39:33,026 - INFO - Processing page 1: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=1&brands[filters][letter]=
+2025-03-08 21:39:36,085 - INFO - Found 20 brands on page 1, 20 are new
+2025-03-08 21:39:36,097 - INFO - Processing new brand: (4 ELEMENTS FOR LIFE) on page 1
+2025-03-08 21:39:36,730 - INFO - Appended brand '(4 ELEMENTS FOR LIFE)' to JSON file
+2025-03-08 21:39:36,761 - INFO - Saved brand '(4 ELEMENTS FOR LIFE)' to temp file temp_brand_files\temp__4_ELEMENTS_FOR_LIFE__1741469976.csv
+2025-03-08 21:39:36,763 - INFO - Added '(4 ELEMENTS FOR LIFE)' to processed brands list
+2025-03-08 21:39:37,344 - INFO - Processing new brand: + ALOE CANARIAS on page 1
+2025-03-08 21:39:37,934 - INFO - Appended brand '+ ALOE CANARIAS' to JSON file
+2025-03-08 21:39:37,944 - INFO - Saved brand '+ ALOE CANARIAS' to temp file temp_brand_files\temp___ALOE_CANARIAS_1741469977.csv
+2025-03-08 21:39:37,947 - INFO - Added '+ ALOE CANARIAS' to processed brands list
+2025-03-08 21:39:38,568 - INFO - Processing new brand: 2CY COSMETICS on page 1
+2025-03-08 21:39:39,394 - INFO - Appended brand '2CY COSMETICS' to JSON file
+2025-03-08 21:39:39,427 - INFO - Saved brand '2CY COSMETICS' to temp file temp_brand_files\temp_2CY_COSMETICS_1741469979.csv
+2025-03-08 21:39:39,435 - INFO - Added '2CY COSMETICS' to processed brands list
+2025-03-08 21:39:40,100 - INFO - Processing new brand: 4 PEOPLE WHO CARE on page 1
+2025-03-08 21:39:40,859 - INFO - Appended brand '4 PEOPLE WHO CARE' to JSON file
+2025-03-08 21:39:40,878 - INFO - Saved brand '4 PEOPLE WHO CARE' to temp file temp_brand_files\temp_4_PEOPLE_WHO_CARE_1741469980.csv
+2025-03-08 21:39:40,881 - INFO - Added '4 PEOPLE WHO CARE' to processed brands list
+2025-03-08 21:39:41,479 - INFO - Processing new brand: 72K on page 1
+2025-03-08 21:39:42,244 - INFO - Appended brand '72K' to JSON file
+2025-03-08 21:39:42,257 - INFO - Saved brand '72K' to temp file temp_brand_files\temp_72K_1741469982.csv
+2025-03-08 21:39:42,270 - INFO - Added '72K' to processed brands list
+2025-03-08 21:39:42,892 - INFO - Processing new brand: ABITARA on page 1
+2025-03-08 21:39:43,579 - INFO - Appended brand 'ABITARA' to JSON file
+2025-03-08 21:39:43,594 - INFO - Saved brand 'ABITARA' to temp file temp_brand_files\temp_ABITARA_1741469983.csv
+2025-03-08 21:39:43,608 - INFO - Added 'ABITARA' to processed brands list
+2025-03-08 21:39:44,205 - INFO - Processing new brand: AEOS on page 1
+2025-03-08 21:39:44,974 - INFO - Appended brand 'AEOS' to JSON file
+2025-03-08 21:39:45,018 - INFO - Saved brand 'AEOS' to temp file temp_brand_files\temp_AEOS_1741469985.csv
+2025-03-08 21:39:45,039 - INFO - Added 'AEOS' to processed brands list
+2025-03-08 21:39:45,617 - INFO - Processing new brand: AGWA on page 1
+2025-03-08 21:39:46,271 - INFO - Appended brand 'AGWA' to JSON file
+2025-03-08 21:39:46,283 - INFO - Saved brand 'AGWA' to temp file temp_brand_files\temp_AGWA_1741469986.csv
+2025-03-08 21:39:46,294 - INFO - Added 'AGWA' to processed brands list
+2025-03-08 21:39:46,913 - INFO - Processing new brand: AHAVA on page 1
+2025-03-08 21:39:47,575 - INFO - Appended brand 'AHAVA' to JSON file
+2025-03-08 21:39:47,591 - INFO - Saved brand 'AHAVA' to temp file temp_brand_files\temp_AHAVA_1741469987.csv
+2025-03-08 21:39:47,617 - INFO - Added 'AHAVA' to processed brands list
+2025-03-08 21:39:48,286 - INFO - Processing new brand: ALAVI NATURAL COSMETICS on page 1
+2025-03-08 21:39:49,175 - INFO - Appended brand 'ALAVI NATURAL COSMETICS' to JSON file
+2025-03-08 21:39:49,197 - INFO - Saved brand 'ALAVI NATURAL COSMETICS' to temp file temp_brand_files\temp_ALAVI_NATURAL_COSMETICS_1741469989.csv
+2025-03-08 21:39:49,219 - INFO - Added 'ALAVI NATURAL COSMETICS' to processed brands list
+2025-03-08 21:39:49,938 - INFO - Processing new brand: ALLGÄUQUELLE NATURPRODUKTE on page 1
+2025-03-08 21:39:50,622 - INFO - Appended brand 'ALLGÄUQUELLE NATURPRODUKTE' to JSON file
+2025-03-08 21:39:50,640 - INFO - Saved brand 'ALLGÄUQUELLE NATURPRODUKTE' to temp file temp_brand_files\temp_ALLGÄUQUELLE_NATURPRODUKTE_1741469990.csv
+2025-03-08 21:39:50,659 - INFO - Added 'ALLGÄUQUELLE NATURPRODUKTE' to processed brands list
+2025-03-08 21:39:51,254 - INFO - Processing new brand: ALOE VERA NATURKOSMETIK on page 1
+2025-03-08 21:39:51,940 - INFO - Appended brand 'ALOE VERA NATURKOSMETIK' to JSON file
+2025-03-08 21:39:51,953 - INFO - Saved brand 'ALOE VERA NATURKOSMETIK' to temp file temp_brand_files\temp_ALOE_VERA_NATURKOSMETIK_1741469991.csv
+2025-03-08 21:39:51,986 - INFO - Added 'ALOE VERA NATURKOSMETIK' to processed brands list
+2025-03-08 21:39:52,633 - INFO - Processing new brand: ALTERRA NATURKOSMETIK on page 1
+2025-03-08 21:39:53,286 - INFO - Appended brand 'ALTERRA NATURKOSMETIK' to JSON file
+2025-03-08 21:39:53,303 - INFO - Saved brand 'ALTERRA NATURKOSMETIK' to temp file temp_brand_files\temp_ALTERRA_NATURKOSMETIK_1741469993.csv
+2025-03-08 21:39:53,316 - INFO - Added 'ALTERRA NATURKOSMETIK' to processed brands list
+2025-03-08 21:39:53,913 - INFO - Processing new brand: ALTEYA ORGANICS on page 1
+2025-03-08 21:39:54,883 - INFO - Appended brand 'ALTEYA ORGANICS' to JSON file
+2025-03-08 21:39:54,923 - INFO - Saved brand 'ALTEYA ORGANICS' to temp file temp_brand_files\temp_ALTEYA_ORGANICS_1741469994.csv
+2025-03-08 21:39:54,971 - INFO - Added 'ALTEYA ORGANICS' to processed brands list
+2025-03-08 21:39:55,616 - INFO - Processing new brand: ALVERDE NATURKOSMETIK on page 1
+2025-03-08 21:39:56,518 - INFO - Appended brand 'ALVERDE NATURKOSMETIK' to JSON file
+2025-03-08 21:39:56,543 - INFO - Saved brand 'ALVERDE NATURKOSMETIK' to temp file temp_brand_files\temp_ALVERDE_NATURKOSMETIK_1741469996.csv
+2025-03-08 21:39:56,563 - INFO - Added 'ALVERDE NATURKOSMETIK' to processed brands list
+2025-03-08 21:39:57,195 - INFO - Processing new brand: ALVIANA NATURKOSMETIK on page 1
+2025-03-08 21:39:58,061 - INFO - Appended brand 'ALVIANA NATURKOSMETIK' to JSON file
+2025-03-08 21:39:58,085 - INFO - Saved brand 'ALVIANA NATURKOSMETIK' to temp file temp_brand_files\temp_ALVIANA_NATURKOSMETIK_1741469998.csv
+2025-03-08 21:39:58,124 - INFO - Added 'ALVIANA NATURKOSMETIK' to processed brands list
+2025-03-08 21:39:58,907 - INFO - Processing new brand: AMALA on page 1
+2025-03-08 21:40:00,012 - INFO - Appended brand 'AMALA' to JSON file
+2025-03-08 21:40:00,123 - INFO - Saved brand 'AMALA' to temp file temp_brand_files\temp_AMALA_1741470000.csv
+2025-03-08 21:40:00,133 - INFO - Added 'AMALA' to processed brands list
+2025-03-08 21:40:00,913 - INFO - Processing new brand: AMANPRANA on page 1
+2025-03-08 21:40:01,797 - INFO - Appended brand 'AMANPRANA' to JSON file
+2025-03-08 21:40:01,815 - INFO - Saved brand 'AMANPRANA' to temp file temp_brand_files\temp_AMANPRANA_1741470001.csv
+2025-03-08 21:40:01,836 - INFO - Added 'AMANPRANA' to processed brands list
+2025-03-08 21:40:02,712 - INFO - Processing new brand: ANASTASIA on page 1
+2025-03-08 21:40:03,531 - INFO - Appended brand 'ANASTASIA' to JSON file
+2025-03-08 21:40:03,560 - INFO - Saved brand 'ANASTASIA' to temp file temp_brand_files\temp_ANASTASIA_1741470003.csv
+2025-03-08 21:40:03,563 - INFO - Added 'ANASTASIA' to processed brands list
+2025-03-08 21:40:04,162 - INFO - Processing new brand: ANISSA on page 1
+2025-03-08 21:40:04,939 - INFO - Appended brand 'ANISSA' to JSON file
+2025-03-08 21:40:05,028 - INFO - Saved brand 'ANISSA' to temp file temp_brand_files\temp_ANISSA_1741470004.csv
+2025-03-08 21:40:05,138 - INFO - Added 'ANISSA' to processed brands list
+2025-03-08 21:40:06,078 - INFO - Found 20 temp files to merge
+2025-03-08 21:40:06,107 - INFO - Loaded existing Excel file with 0 records
+2025-03-08 21:40:06,141 - INFO - Loaded existing CSV file with 0 records
+2025-03-08 21:40:06,328 - INFO - Successfully saved 20 records to Excel file (added 20 new records)
+2025-03-08 21:40:06,333 - INFO - Successfully saved 20 records to CSV file (added 20 new records)
+2025-03-08 21:40:08,614 - INFO - Page 1 completed with 20 new brands. Running total: 20
+2025-03-08 21:40:10,616 - INFO - Processing page 2 of 12
+2025-03-08 21:40:10,617 - INFO - ====== WebDriver manager ======
+2025-03-08 21:40:12,097 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:40:12,451 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:40:12,558 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:40:13,831 - INFO - Processing page 2: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=2&brands[filters][letter]=
+2025-03-08 21:40:16,397 - INFO - Found 20 brands on page 2, 20 are new
+2025-03-08 21:40:16,412 - INFO - Processing new brand: APOCARE on page 2
+2025-03-08 21:40:17,045 - INFO - Appended brand 'APOCARE' to JSON file
+2025-03-08 21:40:17,065 - INFO - Saved brand 'APOCARE' to temp file temp_brand_files\temp_APOCARE_1741470017.csv
+2025-03-08 21:40:17,068 - INFO - Added 'APOCARE' to processed brands list
+2025-03-08 21:40:17,724 - INFO - Processing new brand: ARBORIA on page 2
+2025-03-08 21:40:18,342 - INFO - Appended brand 'ARBORIA' to JSON file
+2025-03-08 21:40:18,357 - INFO - Saved brand 'ARBORIA' to temp file temp_brand_files\temp_ARBORIA_1741470018.csv
+2025-03-08 21:40:18,373 - INFO - Added 'ARBORIA' to processed brands list
+2025-03-08 21:40:19,015 - INFO - Processing new brand: ARIES BIOKOSMETIK on page 2
+2025-03-08 21:40:19,656 - INFO - Appended brand 'ARIES BIOKOSMETIK' to JSON file
+2025-03-08 21:40:19,674 - INFO - Saved brand 'ARIES BIOKOSMETIK' to temp file temp_brand_files\temp_ARIES_BIOKOSMETIK_1741470019.csv
+2025-03-08 21:40:19,689 - INFO - Added 'ARIES BIOKOSMETIK' to processed brands list
+2025-03-08 21:40:20,277 - INFO - Processing new brand: B&R BAROQUE & ROSE on page 2
+2025-03-08 21:40:20,897 - INFO - Appended brand 'B&R BAROQUE & ROSE' to JSON file
+2025-03-08 21:40:20,911 - INFO - Saved brand 'B&R BAROQUE & ROSE' to temp file temp_brand_files\temp_B_R_BAROQUE___ROSE_1741470020.csv
+2025-03-08 21:40:20,924 - INFO - Added 'B&R BAROQUE & ROSE' to processed brands list
+2025-03-08 21:40:21,539 - INFO - Processing new brand: BABYDREAM NATURAL on page 2
+2025-03-08 21:40:22,172 - INFO - Appended brand 'BABYDREAM NATURAL' to JSON file
+2025-03-08 21:40:22,185 - INFO - Saved brand 'BABYDREAM NATURAL' to temp file temp_brand_files\temp_BABYDREAM_NATURAL_1741470022.csv
+2025-03-08 21:40:22,195 - INFO - Added 'BABYDREAM NATURAL' to processed brands list
+2025-03-08 21:40:22,834 - INFO - Processing new brand: BABYDUFT on page 2
+2025-03-08 21:40:23,561 - INFO - Appended brand 'BABYDUFT' to JSON file
+2025-03-08 21:40:23,581 - INFO - Saved brand 'BABYDUFT' to temp file temp_brand_files\temp_BABYDUFT_1741470023.csv
+2025-03-08 21:40:23,592 - INFO - Added 'BABYDUFT' to processed brands list
+2025-03-08 21:40:24,292 - INFO - Processing new brand: BALMYOU on page 2
+2025-03-08 21:40:25,001 - INFO - Appended brand 'BALMYOU' to JSON file
+2025-03-08 21:40:25,018 - INFO - Saved brand 'BALMYOU' to temp file temp_brand_files\temp_BALMYOU_1741470025.csv
+2025-03-08 21:40:25,033 - INFO - Added 'BALMYOU' to processed brands list
+2025-03-08 21:40:25,618 - INFO - Processing new brand: BANO ARLBERGER NATURPRODUKTE on page 2
+2025-03-08 21:40:26,256 - INFO - Appended brand 'BANO ARLBERGER NATURPRODUKTE' to JSON file
+2025-03-08 21:40:26,273 - INFO - Saved brand 'BANO ARLBERGER NATURPRODUKTE' to temp file temp_brand_files\temp_BANO_ARLBERGER_NATURPRODUKTE_1741470026.csv
+2025-03-08 21:40:26,284 - INFO - Added 'BANO ARLBERGER NATURPRODUKTE' to processed brands list
+2025-03-08 21:40:26,891 - INFO - Processing new brand: BASIS BALANCE NATURKOSMETIK on page 2
+2025-03-08 21:40:27,539 - INFO - Appended brand 'BASIS BALANCE NATURKOSMETIK' to JSON file
+2025-03-08 21:40:27,555 - INFO - Saved brand 'BASIS BALANCE NATURKOSMETIK' to temp file temp_brand_files\temp_BASIS_BALANCE_NATURKOSMETIK_1741470027.csv
+2025-03-08 21:40:27,570 - INFO - Added 'BASIS BALANCE NATURKOSMETIK' to processed brands list
+2025-03-08 21:40:28,163 - INFO - Processing new brand: BAYBIES on page 2
+2025-03-08 21:40:33,034 - INFO - Appended brand 'BAYBIES' to JSON file
+2025-03-08 21:40:33,053 - INFO - Saved brand 'BAYBIES' to temp file temp_brand_files\temp_BAYBIES_1741470033.csv
+2025-03-08 21:40:33,055 - INFO - Added 'BAYBIES' to processed brands list
+2025-03-08 21:40:33,715 - INFO - Processing new brand: BEAUTY BABY NATURAL on page 2
+2025-03-08 21:40:34,423 - INFO - Appended brand 'BEAUTY BABY NATURAL' to JSON file
+2025-03-08 21:40:34,439 - INFO - Saved brand 'BEAUTY BABY NATURAL' to temp file temp_brand_files\temp_BEAUTY_BABY_NATURAL_1741470034.csv
+2025-03-08 21:40:34,450 - INFO - Added 'BEAUTY BABY NATURAL' to processed brands list
+2025-03-08 21:40:35,095 - INFO - Processing new brand: BEAUTY GARDEN on page 2
+2025-03-08 21:40:35,842 - INFO - Appended brand 'BEAUTY GARDEN' to JSON file
+2025-03-08 21:40:35,872 - INFO - Saved brand 'BEAUTY GARDEN' to temp file temp_brand_files\temp_BEAUTY_GARDEN_1741470035.csv
+2025-03-08 21:40:35,887 - INFO - Added 'BEAUTY GARDEN' to processed brands list
+2025-03-08 21:40:36,475 - INFO - Processing new brand: BEE NATURAL on page 2
+2025-03-08 21:40:37,112 - INFO - Appended brand 'BEE NATURAL' to JSON file
+2025-03-08 21:40:37,131 - INFO - Saved brand 'BEE NATURAL' to temp file temp_brand_files\temp_BEE_NATURAL_1741470037.csv
+2025-03-08 21:40:37,144 - INFO - Added 'BEE NATURAL' to processed brands list
+2025-03-08 21:40:37,811 - INFO - Processing new brand: BEN & ANNA on page 2
+2025-03-08 21:40:38,457 - INFO - Appended brand 'BEN & ANNA' to JSON file
+2025-03-08 21:40:38,471 - INFO - Saved brand 'BEN & ANNA' to temp file temp_brand_files\temp_BEN___ANNA_1741470038.csv
+2025-03-08 21:40:38,483 - INFO - Added 'BEN & ANNA' to processed brands list
+2025-03-08 21:40:39,134 - INFO - Processing new brand: BEOVITA on page 2
+2025-03-08 21:40:39,836 - INFO - Appended brand 'BEOVITA' to JSON file
+2025-03-08 21:40:39,851 - INFO - Saved brand 'BEOVITA' to temp file temp_brand_files\temp_BEOVITA_1741470039.csv
+2025-03-08 21:40:39,861 - INFO - Added 'BEOVITA' to processed brands list
+2025-03-08 21:40:40,453 - INFO - Processing new brand: BEVOLA NATURALS on page 2
+2025-03-08 21:40:41,164 - INFO - Appended brand 'BEVOLA NATURALS' to JSON file
+2025-03-08 21:40:41,182 - INFO - Saved brand 'BEVOLA NATURALS' to temp file temp_brand_files\temp_BEVOLA_NATURALS_1741470041.csv
+2025-03-08 21:40:41,195 - INFO - Added 'BEVOLA NATURALS' to processed brands list
+2025-03-08 21:40:41,838 - INFO - Processing new brand: BI GOOD on page 2
+2025-03-08 21:40:42,470 - INFO - Appended brand 'BI GOOD' to JSON file
+2025-03-08 21:40:42,485 - INFO - Saved brand 'BI GOOD' to temp file temp_brand_files\temp_BI_GOOD_1741470042.csv
+2025-03-08 21:40:42,498 - INFO - Added 'BI GOOD' to processed brands list
+2025-03-08 21:40:43,100 - INFO - Processing new brand: BIO HAPPY on page 2
+2025-03-08 21:40:43,727 - INFO - Appended brand 'BIO HAPPY' to JSON file
+2025-03-08 21:40:43,744 - INFO - Saved brand 'BIO HAPPY' to temp file temp_brand_files\temp_BIO_HAPPY_1741470043.csv
+2025-03-08 21:40:43,757 - INFO - Added 'BIO HAPPY' to processed brands list
+2025-03-08 21:40:44,352 - INFO - Processing new brand: BIO PLANÈTE on page 2
+2025-03-08 21:40:44,995 - INFO - Appended brand 'BIO PLANÈTE' to JSON file
+2025-03-08 21:40:45,012 - INFO - Saved brand 'BIO PLANÈTE' to temp file temp_brand_files\temp_BIO_PLANÈTE_1741470045.csv
+2025-03-08 21:40:45,026 - INFO - Added 'BIO PLANÈTE' to processed brands list
+2025-03-08 21:40:45,682 - INFO - Processing new brand: BIO:VEGANE on page 2
+2025-03-08 21:40:46,305 - INFO - Appended brand 'BIO:VEGANE' to JSON file
+2025-03-08 21:40:46,323 - INFO - Saved brand 'BIO:VEGANE' to temp file temp_brand_files\temp_BIO_VEGANE_1741470046.csv
+2025-03-08 21:40:46,340 - INFO - Added 'BIO:VEGANE' to processed brands list
+2025-03-08 21:40:46,969 - INFO - Found 20 temp files to merge
+2025-03-08 21:40:46,987 - INFO - Loaded existing Excel file with 20 records
+2025-03-08 21:40:47,006 - INFO - Loaded existing CSV file with 20 records
+2025-03-08 21:40:47,086 - INFO - Successfully saved 40 records to Excel file (added 20 new records)
+2025-03-08 21:40:47,091 - INFO - Successfully saved 40 records to CSV file (added 20 new records)
+2025-03-08 21:40:49,913 - INFO - Page 2 completed with 20 new brands. Running total: 40
+2025-03-08 21:40:51,914 - INFO - Processing page 3 of 12
+2025-03-08 21:40:51,924 - INFO - ====== WebDriver manager ======
+2025-03-08 21:40:53,306 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:40:53,512 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:40:53,658 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:40:54,956 - INFO - Processing page 3: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=3&brands[filters][letter]=
+2025-03-08 21:40:58,025 - INFO - Found 20 brands on page 3, 20 are new
+2025-03-08 21:40:58,039 - INFO - Processing new brand: BIO:VÉGANE SKINFOOD on page 3
+2025-03-08 21:41:02,904 - INFO - Appended brand 'BIO:VÉGANE SKINFOOD' to JSON file
+2025-03-08 21:41:02,923 - INFO - Saved brand 'BIO:VÉGANE SKINFOOD' to temp file temp_brand_files\temp_BIO_VÉGANE_SKINFOOD_1741470062.csv
+2025-03-08 21:41:02,925 - INFO - Added 'BIO:VÉGANE SKINFOOD' to processed brands list
+2025-03-08 21:41:03,511 - INFO - Processing new brand: BIO2YOU on page 3
+2025-03-08 21:41:04,141 - INFO - Appended brand 'BIO2YOU' to JSON file
+2025-03-08 21:41:04,173 - INFO - Saved brand 'BIO2YOU' to temp file temp_brand_files\temp_BIO2YOU_1741470064.csv
+2025-03-08 21:41:04,191 - INFO - Added 'BIO2YOU' to processed brands list
+2025-03-08 21:41:04,833 - INFO - Processing new brand: BIOCURA COSMÉTICA NATURAL on page 3
+2025-03-08 21:41:05,516 - INFO - Appended brand 'BIOCURA COSMÉTICA NATURAL' to JSON file
+2025-03-08 21:41:05,556 - INFO - Saved brand 'BIOCURA COSMÉTICA NATURAL' to temp file temp_brand_files\temp_BIOCURA_COSMÉTICA_NATURAL_1741470065.csv
+2025-03-08 21:41:05,581 - INFO - Added 'BIOCURA COSMÉTICA NATURAL' to processed brands list
+2025-03-08 21:41:06,179 - INFO - Processing new brand: BIOCURA NATURE on page 3
+2025-03-08 21:41:06,808 - INFO - Appended brand 'BIOCURA NATURE' to JSON file
+2025-03-08 21:41:06,822 - INFO - Saved brand 'BIOCURA NATURE' to temp file temp_brand_files\temp_BIOCURA_NATURE_1741470066.csv
+2025-03-08 21:41:06,835 - INFO - Added 'BIOCURA NATURE' to processed brands list
+2025-03-08 21:41:07,414 - INFO - Processing new brand: BIODROGA ORGANIC INSTITUTE on page 3
+2025-03-08 21:41:08,111 - INFO - Appended brand 'BIODROGA ORGANIC INSTITUTE' to JSON file
+2025-03-08 21:41:08,129 - INFO - Saved brand 'BIODROGA ORGANIC INSTITUTE' to temp file temp_brand_files\temp_BIODROGA_ORGANIC_INSTITUTE_1741470068.csv
+2025-03-08 21:41:08,144 - INFO - Added 'BIODROGA ORGANIC INSTITUTE' to processed brands list
+2025-03-08 21:41:08,785 - INFO - Processing new brand: BIOKOSMA on page 3
+2025-03-08 21:41:09,445 - INFO - Appended brand 'BIOKOSMA' to JSON file
+2025-03-08 21:41:09,467 - INFO - Saved brand 'BIOKOSMA' to temp file temp_brand_files\temp_BIOKOSMA_1741470069.csv
+2025-03-08 21:41:09,491 - INFO - Added 'BIOKOSMA' to processed brands list
+2025-03-08 21:41:10,089 - INFO - Processing new brand: BIONATYR on page 3
+2025-03-08 21:41:10,691 - INFO - Appended brand 'BIONATYR' to JSON file
+2025-03-08 21:41:10,707 - INFO - Saved brand 'BIONATYR' to temp file temp_brand_files\temp_BIONATYR_1741470070.csv
+2025-03-08 21:41:10,721 - INFO - Added 'BIONATYR' to processed brands list
+2025-03-08 21:41:11,295 - INFO - Processing new brand: BIOTISSIMA - MIND & BODY on page 3
+2025-03-08 21:41:11,954 - INFO - Appended brand 'BIOTISSIMA - MIND & BODY' to JSON file
+2025-03-08 21:41:11,969 - INFO - Saved brand 'BIOTISSIMA - MIND & BODY' to temp file temp_brand_files\temp_BIOTISSIMA___MIND___BODY_1741470071.csv
+2025-03-08 21:41:11,982 - INFO - Added 'BIOTISSIMA - MIND & BODY' to processed brands list
+2025-03-08 21:41:12,583 - INFO - Processing new brand: BIRKENGOLD on page 3
+2025-03-08 21:41:13,315 - INFO - Appended brand 'BIRKENGOLD' to JSON file
+2025-03-08 21:41:13,332 - INFO - Saved brand 'BIRKENGOLD' to temp file temp_brand_files\temp_BIRKENGOLD_1741470073.csv
+2025-03-08 21:41:13,354 - INFO - Added 'BIRKENGOLD' to processed brands list
+2025-03-08 21:41:13,943 - INFO - Processing new brand: BLÜTE-ZEIT on page 3
+2025-03-08 21:41:14,583 - INFO - Appended brand 'BLÜTE-ZEIT' to JSON file
+2025-03-08 21:41:14,597 - INFO - Saved brand 'BLÜTE-ZEIT' to temp file temp_brand_files\temp_BLÜTE_ZEIT_1741470074.csv
+2025-03-08 21:41:14,611 - INFO - Added 'BLÜTE-ZEIT' to processed brands list
+2025-03-08 21:41:15,180 - INFO - Processing new brand: CARA BIO COSMETICS on page 3
+2025-03-08 21:41:15,831 - INFO - Appended brand 'CARA BIO COSMETICS' to JSON file
+2025-03-08 21:41:15,847 - INFO - Saved brand 'CARA BIO COSMETICS' to temp file temp_brand_files\temp_CARA_BIO_COSMETICS_1741470075.csv
+2025-03-08 21:41:15,859 - INFO - Added 'CARA BIO COSMETICS' to processed brands list
+2025-03-08 21:41:16,495 - INFO - Processing new brand: CELLAGON on page 3
+2025-03-08 21:41:17,184 - INFO - Appended brand 'CELLAGON' to JSON file
+2025-03-08 21:41:17,199 - INFO - Saved brand 'CELLAGON' to temp file temp_brand_files\temp_CELLAGON_1741470077.csv
+2025-03-08 21:41:17,210 - INFO - Added 'CELLAGON' to processed brands list
+2025-03-08 21:41:17,846 - INFO - Processing new brand: CERES SPEZIALPFLEGE on page 3
+2025-03-08 21:41:18,641 - INFO - Appended brand 'CERES SPEZIALPFLEGE' to JSON file
+2025-03-08 21:41:18,663 - INFO - Saved brand 'CERES SPEZIALPFLEGE' to temp file temp_brand_files\temp_CERES_SPEZIALPFLEGE_1741470078.csv
+2025-03-08 21:41:18,681 - INFO - Added 'CERES SPEZIALPFLEGE' to processed brands list
+2025-03-08 21:41:19,267 - INFO - Processing new brand: CHARLOTTE MEENTZEN on page 3
+2025-03-08 21:41:20,033 - INFO - Appended brand 'CHARLOTTE MEENTZEN' to JSON file
+2025-03-08 21:41:20,051 - INFO - Saved brand 'CHARLOTTE MEENTZEN' to temp file temp_brand_files\temp_CHARLOTTE_MEENTZEN_1741470080.csv
+2025-03-08 21:41:20,063 - INFO - Added 'CHARLOTTE MEENTZEN' to processed brands list
+2025-03-08 21:41:20,700 - INFO - Processing new brand: CIEN NATURE on page 3
+2025-03-08 21:41:21,327 - INFO - Appended brand 'CIEN NATURE' to JSON file
+2025-03-08 21:41:21,342 - INFO - Saved brand 'CIEN NATURE' to temp file temp_brand_files\temp_CIEN_NATURE_1741470081.csv
+2025-03-08 21:41:21,355 - INFO - Added 'CIEN NATURE' to processed brands list
+2025-03-08 21:41:22,006 - INFO - Processing new brand: CONAD BABY NATURAL on page 3
+2025-03-08 21:41:22,649 - INFO - Appended brand 'CONAD BABY NATURAL' to JSON file
+2025-03-08 21:41:22,669 - INFO - Saved brand 'CONAD BABY NATURAL' to temp file temp_brand_files\temp_CONAD_BABY_NATURAL_1741470082.csv
+2025-03-08 21:41:22,683 - INFO - Added 'CONAD BABY NATURAL' to processed brands list
+2025-03-08 21:41:23,254 - INFO - Processing new brand: CONASKIN on page 3
+2025-03-08 21:41:24,049 - INFO - Appended brand 'CONASKIN' to JSON file
+2025-03-08 21:41:24,066 - INFO - Saved brand 'CONASKIN' to temp file temp_brand_files\temp_CONASKIN_1741470084.csv
+2025-03-08 21:41:24,079 - INFO - Added 'CONASKIN' to processed brands list
+2025-03-08 21:41:24,657 - INFO - Processing new brand: CORE ACTIVE on page 3
+2025-03-08 21:41:25,314 - INFO - Appended brand 'CORE ACTIVE' to JSON file
+2025-03-08 21:41:25,330 - INFO - Saved brand 'CORE ACTIVE' to temp file temp_brand_files\temp_CORE_ACTIVE_1741470085.csv
+2025-03-08 21:41:25,343 - INFO - Added 'CORE ACTIVE' to processed brands list
+2025-03-08 21:41:25,973 - INFO - Processing new brand: COSNATURE on page 3
+2025-03-08 21:41:26,677 - INFO - Appended brand 'COSNATURE' to JSON file
+2025-03-08 21:41:26,699 - INFO - Saved brand 'COSNATURE' to temp file temp_brand_files\temp_COSNATURE_1741470086.csv
+2025-03-08 21:41:26,713 - INFO - Added 'COSNATURE' to processed brands list
+2025-03-08 21:41:27,285 - INFO - Processing new brand: CRESCENDO COOP on page 3
+2025-03-08 21:41:28,009 - INFO - Appended brand 'CRESCENDO COOP' to JSON file
+2025-03-08 21:41:28,023 - INFO - Saved brand 'CRESCENDO COOP' to temp file temp_brand_files\temp_CRESCENDO_COOP_1741470088.csv
+2025-03-08 21:41:28,037 - INFO - Added 'CRESCENDO COOP' to processed brands list
+2025-03-08 21:41:28,595 - INFO - Found 20 temp files to merge
+2025-03-08 21:41:28,615 - INFO - Loaded existing Excel file with 40 records
+2025-03-08 21:41:28,632 - INFO - Loaded existing CSV file with 40 records
+2025-03-08 21:41:28,715 - INFO - Successfully saved 60 records to Excel file (added 20 new records)
+2025-03-08 21:41:28,720 - INFO - Successfully saved 60 records to CSV file (added 20 new records)
+2025-03-08 21:41:31,576 - INFO - Page 3 completed with 20 new brands. Running total: 60
+2025-03-08 21:41:33,577 - INFO - Processing page 4 of 12
+2025-03-08 21:41:33,622 - INFO - ====== WebDriver manager ======
+2025-03-08 21:41:35,258 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:41:35,400 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:41:35,546 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:41:36,816 - INFO - Processing page 4: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=4&brands[filters][letter]=
+2025-03-08 21:41:39,615 - INFO - Found 20 brands on page 4, 20 are new
+2025-03-08 21:41:39,628 - INFO - Processing new brand: DAMÀR on page 4
+2025-03-08 21:41:40,262 - INFO - Appended brand 'DAMÀR' to JSON file
+2025-03-08 21:41:40,282 - INFO - Saved brand 'DAMÀR' to temp file temp_brand_files\temp_DAMÀR_1741470100.csv
+2025-03-08 21:41:40,284 - INFO - Added 'DAMÀR' to processed brands list
+2025-03-08 21:41:40,861 - INFO - Processing new brand: DEA FLORES NATURAL HEALTH ORGANIC on page 4
+2025-03-08 21:41:41,464 - INFO - Appended brand 'DEA FLORES NATURAL HEALTH ORGANIC' to JSON file
+2025-03-08 21:41:41,484 - INFO - Saved brand 'DEA FLORES NATURAL HEALTH ORGANIC' to temp file temp_brand_files\temp_DEA_FLORES_NATURAL_HEALTH_ORGANIC_1741470101.csv
+2025-03-08 21:41:41,495 - INFO - Added 'DEA FLORES NATURAL HEALTH ORGANIC' to processed brands list
+2025-03-08 21:41:42,080 - INFO - Processing new brand: DELIDEA BIO on page 4
+2025-03-08 21:41:42,764 - INFO - Appended brand 'DELIDEA BIO' to JSON file
+2025-03-08 21:41:42,783 - INFO - Saved brand 'DELIDEA BIO' to temp file temp_brand_files\temp_DELIDEA_BIO_1741470102.csv
+2025-03-08 21:41:42,793 - INFO - Added 'DELIDEA BIO' to processed brands list
+2025-03-08 21:41:43,393 - INFO - Processing new brand: DENTALUX NATURE on page 4
+2025-03-08 21:41:44,013 - INFO - Appended brand 'DENTALUX NATURE' to JSON file
+2025-03-08 21:41:48,206 - INFO - Saved brand 'DENTALUX NATURE' to temp file temp_brand_files\temp_DENTALUX_NATURE_1741470108.csv
+2025-03-08 21:41:48,226 - INFO - Added 'DENTALUX NATURE' to processed brands list
+2025-03-08 21:41:48,892 - INFO - Processing new brand: DENTITEX NATURE on page 4
+2025-03-08 21:41:49,544 - INFO - Appended brand 'DENTITEX NATURE' to JSON file
+2025-03-08 21:41:49,582 - INFO - Saved brand 'DENTITEX NATURE' to temp file temp_brand_files\temp_DENTITEX_NATURE_1741470109.csv
+2025-03-08 21:41:49,607 - INFO - Added 'DENTITEX NATURE' to processed brands list
+2025-03-08 21:41:50,202 - INFO - Processing new brand: DENTOFIT NATURE on page 4
+2025-03-08 21:41:50,869 - INFO - Appended brand 'DENTOFIT NATURE' to JSON file
+2025-03-08 21:41:50,919 - INFO - Saved brand 'DENTOFIT NATURE' to temp file temp_brand_files\temp_DENTOFIT_NATURE_1741470110.csv
+2025-03-08 21:41:50,947 - INFO - Added 'DENTOFIT NATURE' to processed brands list
+2025-03-08 21:41:51,534 - INFO - Processing new brand: DENTURAL on page 4
+2025-03-08 21:41:52,186 - INFO - Appended brand 'DENTURAL' to JSON file
+2025-03-08 21:41:52,211 - INFO - Saved brand 'DENTURAL' to temp file temp_brand_files\temp_DENTURAL_1741470112.csv
+2025-03-08 21:41:52,236 - INFO - Added 'DENTURAL' to processed brands list
+2025-03-08 21:41:52,854 - INFO - Processing new brand: DOLCE MAMMA on page 4
+2025-03-08 21:41:53,547 - INFO - Appended brand 'DOLCE MAMMA' to JSON file
+2025-03-08 21:41:53,566 - INFO - Saved brand 'DOLCE MAMMA' to temp file temp_brand_files\temp_DOLCE_MAMMA_1741470113.csv
+2025-03-08 21:41:53,577 - INFO - Added 'DOLCE MAMMA' to processed brands list
+2025-03-08 21:41:54,229 - INFO - Processing new brand: DONO DELLA on page 4
+2025-03-08 21:41:54,882 - INFO - Appended brand 'DONO DELLA' to JSON file
+2025-03-08 21:41:54,906 - INFO - Saved brand 'DONO DELLA' to temp file temp_brand_files\temp_DONO_DELLA_1741470114.csv
+2025-03-08 21:41:54,919 - INFO - Added 'DONO DELLA' to processed brands list
+2025-03-08 21:41:55,554 - INFO - Processing new brand: DR. BRONNER'S on page 4
+2025-03-08 21:41:56,294 - INFO - Appended brand 'DR. BRONNER'S' to JSON file
+2025-03-08 21:41:56,346 - INFO - Saved brand 'DR. BRONNER'S' to temp file temp_brand_files\temp_DR__BRONNER_S_1741470116.csv
+2025-03-08 21:41:56,374 - INFO - Added 'DR. BRONNER'S' to processed brands list
+2025-03-08 21:41:56,951 - INFO - Processing new brand: DR. DÜNNER on page 4
+2025-03-08 21:41:57,569 - INFO - Appended brand 'DR. DÜNNER' to JSON file
+2025-03-08 21:41:57,589 - INFO - Saved brand 'DR. DÜNNER' to temp file temp_brand_files\temp_DR__DÜNNER_1741470117.csv
+2025-03-08 21:41:57,602 - INFO - Added 'DR. DÜNNER' to processed brands list
+2025-03-08 21:41:58,238 - INFO - Processing new brand: DR. HAUSCHKA on page 4
+2025-03-08 21:41:58,883 - INFO - Appended brand 'DR. HAUSCHKA' to JSON file
+2025-03-08 21:41:58,901 - INFO - Saved brand 'DR. HAUSCHKA' to temp file temp_brand_files\temp_DR__HAUSCHKA_1741470118.csv
+2025-03-08 21:41:58,915 - INFO - Added 'DR. HAUSCHKA' to processed brands list
+2025-03-08 21:41:59,491 - INFO - Processing new brand: DR. HEILBRONNER on page 4
+2025-03-08 21:42:00,159 - INFO - Appended brand 'DR. HEILBRONNER' to JSON file
+2025-03-08 21:42:00,181 - INFO - Saved brand 'DR. HEILBRONNER' to temp file temp_brand_files\temp_DR__HEILBRONNER_1741470120.csv
+2025-03-08 21:42:00,193 - INFO - Added 'DR. HEILBRONNER' to processed brands list
+2025-03-08 21:42:00,777 - INFO - Processing new brand: DR. SCHELLER on page 4
+2025-03-08 21:42:01,416 - INFO - Appended brand 'DR. SCHELLER' to JSON file
+2025-03-08 21:42:01,436 - INFO - Saved brand 'DR. SCHELLER' to temp file temp_brand_files\temp_DR__SCHELLER_1741470121.csv
+2025-03-08 21:42:01,449 - INFO - Added 'DR. SCHELLER' to processed brands list
+2025-03-08 21:42:02,034 - INFO - Processing new brand: DR. SCHELLER NATURAL & EFFECTIVE on page 4
+2025-03-08 21:42:02,675 - INFO - Appended brand 'DR. SCHELLER NATURAL & EFFECTIVE' to JSON file
+2025-03-08 21:42:02,697 - INFO - Saved brand 'DR. SCHELLER NATURAL & EFFECTIVE' to temp file temp_brand_files\temp_DR__SCHELLER_NATURAL___EFFECTIVE_1741470122.csv
+2025-03-08 21:42:02,710 - INFO - Added 'DR. SCHELLER NATURAL & EFFECTIVE' to processed brands list
+2025-03-08 21:42:03,364 - INFO - Processing new brand: DR. SWAAB on page 4
+2025-03-08 21:42:04,099 - INFO - Appended brand 'DR. SWAAB' to JSON file
+2025-03-08 21:42:04,218 - INFO - Saved brand 'DR. SWAAB' to temp file temp_brand_files\temp_DR__SWAAB_1741470124.csv
+2025-03-08 21:42:04,231 - INFO - Added 'DR. SWAAB' to processed brands list
+2025-03-08 21:42:04,810 - INFO - Processing new brand: DRESDNER ESSENZ DRECKSPATZ on page 4
+2025-03-08 21:42:05,497 - INFO - Appended brand 'DRESDNER ESSENZ DRECKSPATZ' to JSON file
+2025-03-08 21:42:05,524 - INFO - Saved brand 'DRESDNER ESSENZ DRECKSPATZ' to temp file temp_brand_files\temp_DRESDNER_ESSENZ_DRECKSPATZ_1741470125.csv
+2025-03-08 21:42:05,541 - INFO - Added 'DRESDNER ESSENZ DRECKSPATZ' to processed brands list
+2025-03-08 21:42:06,147 - INFO - Processing new brand: DRESDNER ESSENZ NATURELL on page 4
+2025-03-08 21:42:06,805 - INFO - Appended brand 'DRESDNER ESSENZ NATURELL' to JSON file
+2025-03-08 21:42:06,835 - INFO - Saved brand 'DRESDNER ESSENZ NATURELL' to temp file temp_brand_files\temp_DRESDNER_ESSENZ_NATURELL_1741470126.csv
+2025-03-08 21:42:06,847 - INFO - Added 'DRESDNER ESSENZ NATURELL' to processed brands list
+2025-03-08 21:42:07,489 - INFO - Processing new brand: DRESDNER ESSENZ NATURKOSMETIK on page 4
+2025-03-08 21:42:08,236 - INFO - Appended brand 'DRESDNER ESSENZ NATURKOSMETIK' to JSON file
+2025-03-08 21:42:08,266 - INFO - Saved brand 'DRESDNER ESSENZ NATURKOSMETIK' to temp file temp_brand_files\temp_DRESDNER_ESSENZ_NATURKOSMETIK_1741470128.csv
+2025-03-08 21:42:08,293 - INFO - Added 'DRESDNER ESSENZ NATURKOSMETIK' to processed brands list
+2025-03-08 21:42:08,875 - INFO - Processing new brand: DRESDNER ESSENZ NEED YOU! on page 4
+2025-03-08 21:42:09,597 - INFO - Appended brand 'DRESDNER ESSENZ NEED YOU!' to JSON file
+2025-03-08 21:42:09,620 - INFO - Saved brand 'DRESDNER ESSENZ NEED YOU!' to temp file temp_brand_files\temp_DRESDNER_ESSENZ_NEED_YOU__1741470129.csv
+2025-03-08 21:42:09,635 - INFO - Added 'DRESDNER ESSENZ NEED YOU!' to processed brands list
+2025-03-08 21:42:10,193 - INFO - Found 20 temp files to merge
+2025-03-08 21:42:10,226 - INFO - Loaded existing Excel file with 60 records
+2025-03-08 21:42:10,247 - INFO - Loaded existing CSV file with 60 records
+2025-03-08 21:42:10,350 - INFO - Successfully saved 80 records to Excel file (added 20 new records)
+2025-03-08 21:42:10,354 - INFO - Successfully saved 80 records to CSV file (added 20 new records)
+2025-03-08 21:42:13,215 - INFO - Page 4 completed with 20 new brands. Running total: 80
+2025-03-08 21:42:15,216 - INFO - Processing page 5 of 12
+2025-03-08 21:42:15,255 - INFO - ====== WebDriver manager ======
+2025-03-08 21:42:16,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:42:16,853 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:42:16,937 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:42:18,191 - INFO - Processing page 5: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=5&brands[filters][letter]=
+2025-03-08 21:42:20,629 - INFO - Found 20 brands on page 5, 20 are new
+2025-03-08 21:42:20,640 - INFO - Processing new brand: EARTHS KITCHEN on page 5
+2025-03-08 21:42:21,362 - INFO - Appended brand 'EARTHS KITCHEN' to JSON file
+2025-03-08 21:42:21,389 - INFO - Saved brand 'EARTHS KITCHEN' to temp file temp_brand_files\temp_EARTHS_KITCHEN_1741470141.csv
+2025-03-08 21:42:21,391 - INFO - Added 'EARTHS KITCHEN' to processed brands list
+2025-03-08 21:42:22,022 - INFO - Processing new brand: ECHT. BY TERRA NATURI on page 5
+2025-03-08 21:42:22,677 - INFO - Appended brand 'ECHT. BY TERRA NATURI' to JSON file
+2025-03-08 21:42:22,710 - INFO - Saved brand 'ECHT. BY TERRA NATURI' to temp file temp_brand_files\temp_ECHT__BY_TERRA_NATURI_1741470142.csv
+2025-03-08 21:42:22,725 - INFO - Added 'ECHT. BY TERRA NATURI' to processed brands list
+2025-03-08 21:42:23,347 - INFO - Processing new brand: ELIXATOR on page 5
+2025-03-08 21:42:24,028 - INFO - Appended brand 'ELIXATOR' to JSON file
+2025-03-08 21:42:24,060 - INFO - Saved brand 'ELIXATOR' to temp file temp_brand_files\temp_ELIXATOR_1741470144.csv
+2025-03-08 21:42:24,074 - INFO - Added 'ELIXATOR' to processed brands list
+2025-03-08 21:42:24,657 - INFO - Processing new brand: ENOLEA on page 5
+2025-03-08 21:42:25,325 - INFO - Appended brand 'ENOLEA' to JSON file
+2025-03-08 21:42:25,347 - INFO - Saved brand 'ENOLEA' to temp file temp_brand_files\temp_ENOLEA_1741470145.csv
+2025-03-08 21:42:25,359 - INFO - Added 'ENOLEA' to processed brands list
+2025-03-08 21:42:25,942 - INFO - Processing new brand: EQUONA on page 5
+2025-03-08 21:42:26,572 - INFO - Appended brand 'EQUONA' to JSON file
+2025-03-08 21:42:26,596 - INFO - Saved brand 'EQUONA' to temp file temp_brand_files\temp_EQUONA_1741470146.csv
+2025-03-08 21:42:26,609 - INFO - Added 'EQUONA' to processed brands list
+2025-03-08 21:42:27,243 - INFO - Processing new brand: ESSABÓ on page 5
+2025-03-08 21:42:27,876 - INFO - Appended brand 'ESSABÓ' to JSON file
+2025-03-08 21:42:27,905 - INFO - Saved brand 'ESSABÓ' to temp file temp_brand_files\temp_ESSABÓ_1741470147.csv
+2025-03-08 21:42:27,919 - INFO - Added 'ESSABÓ' to processed brands list
+2025-03-08 21:42:28,545 - INFO - Processing new brand: ETHOSA on page 5
+2025-03-08 21:42:29,217 - INFO - Appended brand 'ETHOSA' to JSON file
+2025-03-08 21:42:29,249 - INFO - Saved brand 'ETHOSA' to temp file temp_brand_files\temp_ETHOSA_1741470149.csv
+2025-03-08 21:42:29,268 - INFO - Added 'ETHOSA' to processed brands list
+2025-03-08 21:42:29,856 - INFO - Processing new brand: ETOS on page 5
+2025-03-08 21:42:34,779 - INFO - Appended brand 'ETOS' to JSON file
+2025-03-08 21:42:34,813 - INFO - Saved brand 'ETOS' to temp file temp_brand_files\temp_ETOS_1741470154.csv
+2025-03-08 21:42:34,815 - INFO - Added 'ETOS' to processed brands list
+2025-03-08 21:42:35,457 - INFO - Processing new brand: ÊTRE BELLE on page 5
+2025-03-08 21:42:36,216 - INFO - Appended brand 'ÊTRE BELLE' to JSON file
+2025-03-08 21:42:36,276 - INFO - Saved brand 'ÊTRE BELLE' to temp file temp_brand_files\temp_ÊTRE_BELLE_1741470156.csv
+2025-03-08 21:42:36,300 - INFO - Added 'ÊTRE BELLE' to processed brands list
+2025-03-08 21:42:36,915 - INFO - Processing new brand: FABIOLA on page 5
+2025-03-08 21:42:37,543 - INFO - Appended brand 'FABIOLA' to JSON file
+2025-03-08 21:42:37,568 - INFO - Saved brand 'FABIOLA' to temp file temp_brand_files\temp_FABIOLA_1741470157.csv
+2025-03-08 21:42:37,581 - INFO - Added 'FABIOLA' to processed brands list
+2025-03-08 21:42:38,155 - INFO - Processing new brand: FAIR SQUARED on page 5
+2025-03-08 21:42:38,850 - INFO - Appended brand 'FAIR SQUARED' to JSON file
+2025-03-08 21:42:38,875 - INFO - Saved brand 'FAIR SQUARED' to temp file temp_brand_files\temp_FAIR_SQUARED_1741470158.csv
+2025-03-08 21:42:38,885 - INFO - Added 'FAIR SQUARED' to processed brands list
+2025-03-08 21:42:39,523 - INFO - Processing new brand: FARFALLA on page 5
+2025-03-08 21:42:40,178 - INFO - Appended brand 'FARFALLA' to JSON file
+2025-03-08 21:42:40,205 - INFO - Saved brand 'FARFALLA' to temp file temp_brand_files\temp_FARFALLA_1741470160.csv
+2025-03-08 21:42:40,221 - INFO - Added 'FARFALLA' to processed brands list
+2025-03-08 21:42:40,872 - INFO - Processing new brand: FARMADERBE on page 5
+2025-03-08 21:42:41,625 - INFO - Appended brand 'FARMADERBE' to JSON file
+2025-03-08 21:42:41,653 - INFO - Saved brand 'FARMADERBE' to temp file temp_brand_files\temp_FARMADERBE_1741470161.csv
+2025-03-08 21:42:41,666 - INFO - Added 'FARMADERBE' to processed brands list
+2025-03-08 21:42:42,257 - INFO - Processing new brand: FITNE HEALTH CARE on page 5
+2025-03-08 21:42:42,989 - INFO - Appended brand 'FITNE HEALTH CARE' to JSON file
+2025-03-08 21:42:43,011 - INFO - Saved brand 'FITNE HEALTH CARE' to temp file temp_brand_files\temp_FITNE_HEALTH_CARE_1741470163.csv
+2025-03-08 21:42:43,025 - INFO - Added 'FITNE HEALTH CARE' to processed brands list
+2025-03-08 21:42:43,655 - INFO - Processing new brand: FRISEUR FREUNDE on page 5
+2025-03-08 21:42:44,292 - INFO - Appended brand 'FRISEUR FREUNDE' to JSON file
+2025-03-08 21:42:44,314 - INFO - Saved brand 'FRISEUR FREUNDE' to temp file temp_brand_files\temp_FRISEUR_FREUNDE_1741470164.csv
+2025-03-08 21:42:44,335 - INFO - Added 'FRISEUR FREUNDE' to processed brands list
+2025-03-08 21:42:44,931 - INFO - Processing new brand: GAEA on page 5
+2025-03-08 21:42:45,678 - INFO - Appended brand 'GAEA' to JSON file
+2025-03-08 21:42:45,720 - INFO - Saved brand 'GAEA' to temp file temp_brand_files\temp_GAEA_1741470165.csv
+2025-03-08 21:42:45,734 - INFO - Added 'GAEA' to processed brands list
+2025-03-08 21:42:46,310 - INFO - Processing new brand: GINUHT'S NATURKOSMETIK on page 5
+2025-03-08 21:42:46,934 - INFO - Appended brand 'GINUHT'S NATURKOSMETIK' to JSON file
+2025-03-08 21:42:46,957 - INFO - Saved brand 'GINUHT'S NATURKOSMETIK' to temp file temp_brand_files\temp_GINUHT_S_NATURKOSMETIK_1741470166.csv
+2025-03-08 21:42:46,972 - INFO - Added 'GINUHT'S NATURKOSMETIK' to processed brands list
+2025-03-08 21:42:47,563 - INFO - Processing new brand: GOODBYE on page 5
+2025-03-08 21:42:48,204 - INFO - Appended brand 'GOODBYE' to JSON file
+2025-03-08 21:42:48,230 - INFO - Saved brand 'GOODBYE' to temp file temp_brand_files\temp_GOODBYE_1741470168.csv
+2025-03-08 21:42:48,253 - INFO - Added 'GOODBYE' to processed brands list
+2025-03-08 21:42:48,825 - INFO - Processing new brand: GREEN IDEA TOPVET PREMIUM on page 5
+2025-03-08 21:42:49,556 - INFO - Appended brand 'GREEN IDEA TOPVET PREMIUM' to JSON file
+2025-03-08 21:42:49,585 - INFO - Saved brand 'GREEN IDEA TOPVET PREMIUM' to temp file temp_brand_files\temp_GREEN_IDEA_TOPVET_PREMIUM_1741470169.csv
+2025-03-08 21:42:49,598 - INFO - Added 'GREEN IDEA TOPVET PREMIUM' to processed brands list
+2025-03-08 21:42:50,184 - INFO - Processing new brand: GREEN TEAM on page 5
+2025-03-08 21:42:51,048 - INFO - Appended brand 'GREEN TEAM' to JSON file
+2025-03-08 21:42:51,075 - INFO - Saved brand 'GREEN TEAM' to temp file temp_brand_files\temp_GREEN_TEAM_1741470171.csv
+2025-03-08 21:42:51,090 - INFO - Added 'GREEN TEAM' to processed brands list
+2025-03-08 21:42:51,687 - INFO - Found 20 temp files to merge
+2025-03-08 21:42:51,721 - INFO - Loaded existing Excel file with 80 records
+2025-03-08 21:42:51,754 - INFO - Loaded existing CSV file with 80 records
+2025-03-08 21:42:51,876 - INFO - Successfully saved 100 records to Excel file (added 20 new records)
+2025-03-08 21:42:51,883 - INFO - Successfully saved 100 records to CSV file (added 20 new records)
+2025-03-08 21:42:54,675 - INFO - Page 5 completed with 20 new brands. Running total: 100
+2025-03-08 21:42:56,676 - INFO - Processing page 6 of 12
+2025-03-08 21:42:56,694 - INFO - ====== WebDriver manager ======
+2025-03-08 21:42:58,136 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:42:58,231 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:42:58,406 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:42:59,742 - INFO - Processing page 6: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=6&brands[filters][letter]=
+2025-03-08 21:43:02,842 - INFO - Found 20 brands on page 6, 20 are new
+2025-03-08 21:43:02,853 - INFO - Processing new brand: GREENETIQ DENMARK on page 6
+2025-03-08 21:43:03,592 - INFO - Appended brand 'GREENETIQ DENMARK' to JSON file
+2025-03-08 21:43:03,636 - INFO - Saved brand 'GREENETIQ DENMARK' to temp file temp_brand_files\temp_GREENETIQ_DENMARK_1741470183.csv
+2025-03-08 21:43:03,639 - INFO - Added 'GREENETIQ DENMARK' to processed brands list
+2025-03-08 21:43:04,275 - INFO - Processing new brand: GRÜNE ERDE on page 6
+2025-03-08 21:43:04,951 - INFO - Appended brand 'GRÜNE ERDE' to JSON file
+2025-03-08 21:43:04,993 - INFO - Saved brand 'GRÜNE ERDE' to temp file temp_brand_files\temp_GRÜNE_ERDE_1741470184.csv
+2025-03-08 21:43:05,007 - INFO - Added 'GRÜNE ERDE' to processed brands list
+2025-03-08 21:43:05,606 - INFO - Processing new brand: HAPPY EARTH on page 6
+2025-03-08 21:43:06,363 - INFO - Appended brand 'HAPPY EARTH' to JSON file
+2025-03-08 21:43:06,391 - INFO - Saved brand 'HAPPY EARTH' to temp file temp_brand_files\temp_HAPPY_EARTH_1741470186.csv
+2025-03-08 21:43:06,407 - INFO - Added 'HAPPY EARTH' to processed brands list
+2025-03-08 21:43:07,003 - INFO - Processing new brand: HELIOTROP on page 6
+2025-03-08 21:43:07,673 - INFO - Appended brand 'HELIOTROP' to JSON file
+2025-03-08 21:43:07,702 - INFO - Saved brand 'HELIOTROP' to temp file temp_brand_files\temp_HELIOTROP_1741470187.csv
+2025-03-08 21:43:07,714 - INFO - Added 'HELIOTROP' to processed brands list
+2025-03-08 21:43:08,357 - INFO - Processing new brand: HEMP HEALTH KFT. on page 6
+2025-03-08 21:43:08,999 - INFO - Appended brand 'HEMP HEALTH KFT.' to JSON file
+2025-03-08 21:43:09,033 - INFO - Saved brand 'HEMP HEALTH KFT.' to temp file temp_brand_files\temp_HEMP_HEALTH_KFT__1741470189.csv
+2025-03-08 21:43:09,046 - INFO - Added 'HEMP HEALTH KFT.' to processed brands list
+2025-03-08 21:43:09,625 - INFO - Processing new brand: HEMPTOUCH on page 6
+2025-03-08 21:43:10,301 - INFO - Appended brand 'HEMPTOUCH' to JSON file
+2025-03-08 21:43:10,336 - INFO - Saved brand 'HEMPTOUCH' to temp file temp_brand_files\temp_HEMPTOUCH_1741470190.csv
+2025-03-08 21:43:10,355 - INFO - Added 'HEMPTOUCH' to processed brands list
+2025-03-08 21:43:10,929 - INFO - Processing new brand: HERBALIND on page 6
+2025-03-08 21:43:11,581 - INFO - Appended brand 'HERBALIND' to JSON file
+2025-03-08 21:43:11,613 - INFO - Saved brand 'HERBALIND' to temp file temp_brand_files\temp_HERBALIND_1741470191.csv
+2025-03-08 21:43:11,624 - INFO - Added 'HERBALIND' to processed brands list
+2025-03-08 21:43:12,199 - INFO - Processing new brand: HILDEGARD on page 6
+2025-03-08 21:43:12,835 - INFO - Appended brand 'HILDEGARD' to JSON file
+2025-03-08 21:43:12,860 - INFO - Saved brand 'HILDEGARD' to temp file temp_brand_files\temp_HILDEGARD_1741470192.csv
+2025-03-08 21:43:12,870 - INFO - Added 'HILDEGARD' to processed brands list
+2025-03-08 21:43:13,511 - INFO - Processing new brand: I AM NATURAL COSMETICS on page 6
+2025-03-08 21:43:14,263 - INFO - Appended brand 'I AM NATURAL COSMETICS' to JSON file
+2025-03-08 21:43:14,296 - INFO - Saved brand 'I AM NATURAL COSMETICS' to temp file temp_brand_files\temp_I_AM_NATURAL_COSMETICS_1741470194.csv
+2025-03-08 21:43:14,307 - INFO - Added 'I AM NATURAL COSMETICS' to processed brands list
+2025-03-08 21:43:14,883 - INFO - Processing new brand: INNTALER NATURE & ORGANIC on page 6
+2025-03-08 21:43:15,518 - INFO - Appended brand 'INNTALER NATURE & ORGANIC' to JSON file
+2025-03-08 21:43:15,549 - INFO - Saved brand 'INNTALER NATURE & ORGANIC' to temp file temp_brand_files\temp_INNTALER_NATURE___ORGANIC_1741470195.csv
+2025-03-08 21:43:15,563 - INFO - Added 'INNTALER NATURE & ORGANIC' to processed brands list
+2025-03-08 21:43:16,210 - INFO - Processing new brand: JARDIN DES MONTS on page 6
+2025-03-08 21:43:20,986 - INFO - Appended brand 'JARDIN DES MONTS' to JSON file
+2025-03-08 21:43:21,011 - INFO - Saved brand 'JARDIN DES MONTS' to temp file temp_brand_files\temp_JARDIN_DES_MONTS_1741470201.csv
+2025-03-08 21:43:21,013 - INFO - Added 'JARDIN DES MONTS' to processed brands list
+2025-03-08 21:43:21,620 - INFO - Processing new brand: JEAN D'ARCEL VÉGÉTALIE on page 6
+2025-03-08 21:43:22,265 - INFO - Appended brand 'JEAN D'ARCEL VÉGÉTALIE' to JSON file
+2025-03-08 21:43:22,299 - INFO - Saved brand 'JEAN D'ARCEL VÉGÉTALIE' to temp file temp_brand_files\temp_JEAN_D_ARCEL_VÉGÉTALIE_1741470202.csv
+2025-03-08 21:43:22,314 - INFO - Added 'JEAN D'ARCEL VÉGÉTALIE' to processed brands list
+2025-03-08 21:43:22,903 - INFO - Processing new brand: JUNIPER LANE on page 6
+2025-03-08 21:43:23,528 - INFO - Appended brand 'JUNIPER LANE' to JSON file
+2025-03-08 21:43:23,553 - INFO - Saved brand 'JUNIPER LANE' to temp file temp_brand_files\temp_JUNIPER_LANE_1741470203.csv
+2025-03-08 21:43:23,566 - INFO - Added 'JUNIPER LANE' to processed brands list
+2025-03-08 21:43:24,144 - INFO - Processing new brand: KAPPUS NATURE on page 6
+2025-03-08 21:43:24,812 - INFO - Appended brand 'KAPPUS NATURE' to JSON file
+2025-03-08 21:43:24,861 - INFO - Saved brand 'KAPPUS NATURE' to temp file temp_brand_files\temp_KAPPUS_NATURE_1741470204.csv
+2025-03-08 21:43:24,882 - INFO - Added 'KAPPUS NATURE' to processed brands list
+2025-03-08 21:43:25,603 - INFO - Processing new brand: KENZAI COSMETICS on page 6
+2025-03-08 21:43:26,288 - INFO - Appended brand 'KENZAI COSMETICS' to JSON file
+2025-03-08 21:43:26,326 - INFO - Saved brand 'KENZAI COSMETICS' to temp file temp_brand_files\temp_KENZAI_COSMETICS_1741470206.csv
+2025-03-08 21:43:26,338 - INFO - Added 'KENZAI COSMETICS' to processed brands list
+2025-03-08 21:43:26,909 - INFO - Processing new brand: KLUGE BEAUTY ORGANIC on page 6
+2025-03-08 21:43:27,544 - INFO - Appended brand 'KLUGE BEAUTY ORGANIC' to JSON file
+2025-03-08 21:43:27,579 - INFO - Saved brand 'KLUGE BEAUTY ORGANIC' to temp file temp_brand_files\temp_KLUGE_BEAUTY_ORGANIC_1741470207.csv
+2025-03-08 21:43:27,589 - INFO - Added 'KLUGE BEAUTY ORGANIC' to processed brands list
+2025-03-08 21:43:28,154 - INFO - Processing new brand: KNEIPP NATURAL COSMETICS on page 6
+2025-03-08 21:43:28,767 - INFO - Appended brand 'KNEIPP NATURAL COSMETICS' to JSON file
+2025-03-08 21:43:28,794 - INFO - Saved brand 'KNEIPP NATURAL COSMETICS' to temp file temp_brand_files\temp_KNEIPP_NATURAL_COSMETICS_1741470208.csv
+2025-03-08 21:43:28,805 - INFO - Added 'KNEIPP NATURAL COSMETICS' to processed brands list
+2025-03-08 21:43:29,384 - INFO - Processing new brand: KRAUTBAD on page 6
+2025-03-08 21:43:30,077 - INFO - Appended brand 'KRAUTBAD' to JSON file
+2025-03-08 21:43:30,106 - INFO - Saved brand 'KRAUTBAD' to temp file temp_brand_files\temp_KRAUTBAD_1741470210.csv
+2025-03-08 21:43:30,121 - INFO - Added 'KRAUTBAD' to processed brands list
+2025-03-08 21:43:30,704 - INFO - Processing new brand: KRUUT on page 6
+2025-03-08 21:43:31,502 - INFO - Appended brand 'KRUUT' to JSON file
+2025-03-08 21:43:31,591 - INFO - Saved brand 'KRUUT' to temp file temp_brand_files\temp_KRUUT_1741470211.csv
+2025-03-08 21:43:31,607 - INFO - Added 'KRUUT' to processed brands list
+2025-03-08 21:43:32,169 - INFO - Processing new brand: KUMARI on page 6
+2025-03-08 21:43:32,836 - INFO - Appended brand 'KUMARI' to JSON file
+2025-03-08 21:43:32,860 - INFO - Saved brand 'KUMARI' to temp file temp_brand_files\temp_KUMARI_1741470212.csv
+2025-03-08 21:43:32,870 - INFO - Added 'KUMARI' to processed brands list
+2025-03-08 21:43:33,495 - INFO - Found 20 temp files to merge
+2025-03-08 21:43:33,533 - INFO - Loaded existing Excel file with 100 records
+2025-03-08 21:43:33,557 - INFO - Loaded existing CSV file with 100 records
+2025-03-08 21:43:33,653 - INFO - Successfully saved 120 records to Excel file (added 20 new records)
+2025-03-08 21:43:33,660 - INFO - Successfully saved 120 records to CSV file (added 20 new records)
+2025-03-08 21:43:36,463 - INFO - Page 6 completed with 20 new brands. Running total: 120
+2025-03-08 21:43:38,464 - INFO - Processing page 7 of 12
+2025-03-08 21:43:38,474 - INFO - ====== WebDriver manager ======
+2025-03-08 21:43:39,748 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:43:39,943 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:43:40,204 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:43:41,606 - INFO - Processing page 7: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=7&brands[filters][letter]=
+2025-03-08 21:43:44,962 - INFO - Found 20 brands on page 7, 20 are new
+2025-03-08 21:43:44,981 - INFO - Processing new brand: L'ISOLA DI PAOLO on page 7
+2025-03-08 21:43:45,699 - INFO - Appended brand 'L'ISOLA DI PAOLO' to JSON file
+2025-03-08 21:43:45,745 - INFO - Saved brand 'L'ISOLA DI PAOLO' to temp file temp_brand_files\temp_L_ISOLA_DI_PAOLO_1741470225.csv
+2025-03-08 21:43:45,747 - INFO - Added 'L'ISOLA DI PAOLO' to processed brands list
+2025-03-08 21:43:46,340 - INFO - Processing new brand: LA ALBUFERA on page 7
+2025-03-08 21:43:46,951 - INFO - Appended brand 'LA ALBUFERA' to JSON file
+2025-03-08 21:43:51,246 - INFO - Saved brand 'LA ALBUFERA' to temp file temp_brand_files\temp_LA_ALBUFERA_1741470231.csv
+2025-03-08 21:43:51,281 - INFO - Added 'LA ALBUFERA' to processed brands list
+2025-03-08 21:43:51,881 - INFO - Processing new brand: LA VIDA on page 7
+2025-03-08 21:43:52,505 - INFO - Appended brand 'LA VIDA' to JSON file
+2025-03-08 21:43:52,532 - INFO - Saved brand 'LA VIDA' to temp file temp_brand_files\temp_LA_VIDA_1741470232.csv
+2025-03-08 21:43:52,544 - INFO - Added 'LA VIDA' to processed brands list
+2025-03-08 21:43:53,110 - INFO - Processing new brand: LAB91 NATURAL on page 7
+2025-03-08 21:43:53,761 - INFO - Appended brand 'LAB91 NATURAL' to JSON file
+2025-03-08 21:43:53,794 - INFO - Saved brand 'LAB91 NATURAL' to temp file temp_brand_files\temp_LAB91_NATURAL_1741470233.csv
+2025-03-08 21:43:53,804 - INFO - Added 'LAB91 NATURAL' to processed brands list
+2025-03-08 21:43:54,423 - INFO - Processing new brand: LACURA BODY on page 7
+2025-03-08 21:43:55,077 - INFO - Appended brand 'LACURA BODY' to JSON file
+2025-03-08 21:43:55,109 - INFO - Saved brand 'LACURA BODY' to temp file temp_brand_files\temp_LACURA_BODY_1741470235.csv
+2025-03-08 21:43:55,121 - INFO - Added 'LACURA BODY' to processed brands list
+2025-03-08 21:43:55,725 - INFO - Processing new brand: LACURA NATURE on page 7
+2025-03-08 21:43:56,396 - INFO - Appended brand 'LACURA NATURE' to JSON file
+2025-03-08 21:43:56,468 - INFO - Saved brand 'LACURA NATURE' to temp file temp_brand_files\temp_LACURA_NATURE_1741470236.csv
+2025-03-08 21:43:56,483 - INFO - Added 'LACURA NATURE' to processed brands list
+2025-03-08 21:43:57,091 - INFO - Processing new brand: LACURA SUN NATURE on page 7
+2025-03-08 21:43:57,794 - INFO - Appended brand 'LACURA SUN NATURE' to JSON file
+2025-03-08 21:43:57,833 - INFO - Saved brand 'LACURA SUN NATURE' to temp file temp_brand_files\temp_LACURA_SUN_NATURE_1741470237.csv
+2025-03-08 21:43:57,853 - INFO - Added 'LACURA SUN NATURE' to processed brands list
+2025-03-08 21:43:58,480 - INFO - Processing new brand: LANTESTINA on page 7
+2025-03-08 21:43:59,099 - INFO - Appended brand 'LANTESTINA' to JSON file
+2025-03-08 21:43:59,127 - INFO - Saved brand 'LANTESTINA' to temp file temp_brand_files\temp_LANTESTINA_1741470239.csv
+2025-03-08 21:43:59,139 - INFO - Added 'LANTESTINA' to processed brands list
+2025-03-08 21:43:59,765 - INFO - Processing new brand: LAVERA on page 7
+2025-03-08 21:44:00,389 - INFO - Appended brand 'LAVERA' to JSON file
+2025-03-08 21:44:00,440 - INFO - Saved brand 'LAVERA' to temp file temp_brand_files\temp_LAVERA_1741470240.csv
+2025-03-08 21:44:00,467 - INFO - Added 'LAVERA' to processed brands list
+2025-03-08 21:44:01,066 - INFO - Processing new brand: LEDERHAAS ARRIVEE on page 7
+2025-03-08 21:44:01,713 - INFO - Appended brand 'LEDERHAAS ARRIVEE' to JSON file
+2025-03-08 21:44:01,763 - INFO - Saved brand 'LEDERHAAS ARRIVEE' to temp file temp_brand_files\temp_LEDERHAAS_ARRIVEE_1741470241.csv
+2025-03-08 21:44:01,779 - INFO - Added 'LEDERHAAS ARRIVEE' to processed brands list
+2025-03-08 21:44:02,381 - INFO - Processing new brand: LINDEN LEAVES on page 7
+2025-03-08 21:44:03,082 - INFO - Appended brand 'LINDEN LEAVES' to JSON file
+2025-03-08 21:44:03,123 - INFO - Saved brand 'LINDEN LEAVES' to temp file temp_brand_files\temp_LINDEN_LEAVES_1741470243.csv
+2025-03-08 21:44:03,140 - INFO - Added 'LINDEN LEAVES' to processed brands list
+2025-03-08 21:44:03,756 - INFO - Processing new brand: LIPFEIN on page 7
+2025-03-08 21:44:04,412 - INFO - Appended brand 'LIPFEIN' to JSON file
+2025-03-08 21:44:04,441 - INFO - Saved brand 'LIPFEIN' to temp file temp_brand_files\temp_LIPFEIN_1741470244.csv
+2025-03-08 21:44:04,455 - INFO - Added 'LIPFEIN' to processed brands list
+2025-03-08 21:44:05,112 - INFO - Processing new brand: LOGODENT on page 7
+2025-03-08 21:44:05,803 - INFO - Appended brand 'LOGODENT' to JSON file
+2025-03-08 21:44:05,842 - INFO - Saved brand 'LOGODENT' to temp file temp_brand_files\temp_LOGODENT_1741470245.csv
+2025-03-08 21:44:05,865 - INFO - Added 'LOGODENT' to processed brands list
+2025-03-08 21:44:06,451 - INFO - Processing new brand: LOGONA on page 7
+2025-03-08 21:44:07,153 - INFO - Appended brand 'LOGONA' to JSON file
+2025-03-08 21:44:07,284 - INFO - Saved brand 'LOGONA' to temp file temp_brand_files\temp_LOGONA_1741470247.csv
+2025-03-08 21:44:07,299 - INFO - Added 'LOGONA' to processed brands list
+2025-03-08 21:44:07,965 - INFO - Processing new brand: LUAMO on page 7
+2025-03-08 21:44:08,723 - INFO - Appended brand 'LUAMO' to JSON file
+2025-03-08 21:44:08,802 - INFO - Saved brand 'LUAMO' to temp file temp_brand_files\temp_LUAMO_1741470248.csv
+2025-03-08 21:44:08,829 - INFO - Added 'LUAMO' to processed brands list
+2025-03-08 21:44:09,428 - INFO - Processing new brand: LUPILU NATURE on page 7
+2025-03-08 21:44:10,108 - INFO - Appended brand 'LUPILU NATURE' to JSON file
+2025-03-08 21:44:10,161 - INFO - Saved brand 'LUPILU NATURE' to temp file temp_brand_files\temp_LUPILU_NATURE_1741470250.csv
+2025-03-08 21:44:10,197 - INFO - Added 'LUPILU NATURE' to processed brands list
+2025-03-08 21:44:10,815 - INFO - Processing new brand: MABYEN on page 7
+2025-03-08 21:44:11,454 - INFO - Appended brand 'MABYEN' to JSON file
+2025-03-08 21:44:11,491 - INFO - Saved brand 'MABYEN' to temp file temp_brand_files\temp_MABYEN_1741470251.csv
+2025-03-08 21:44:11,506 - INFO - Added 'MABYEN' to processed brands list
+2025-03-08 21:44:12,150 - INFO - Processing new brand: MADEMOISELLE BIO on page 7
+2025-03-08 21:44:12,818 - INFO - Appended brand 'MADEMOISELLE BIO' to JSON file
+2025-03-08 21:44:12,858 - INFO - Saved brand 'MADEMOISELLE BIO' to temp file temp_brand_files\temp_MADEMOISELLE_BIO_1741470252.csv
+2025-03-08 21:44:12,874 - INFO - Added 'MADEMOISELLE BIO' to processed brands list
+2025-03-08 21:44:13,460 - INFO - Processing new brand: MANAT on page 7
+2025-03-08 21:44:14,095 - INFO - Appended brand 'MANAT' to JSON file
+2025-03-08 21:44:14,133 - INFO - Saved brand 'MANAT' to temp file temp_brand_files\temp_MANAT_1741470254.csv
+2025-03-08 21:44:14,154 - INFO - Added 'MANAT' to processed brands list
+2025-03-08 21:44:14,756 - INFO - Processing new brand: MANUKA HEALTH on page 7
+2025-03-08 21:44:15,488 - INFO - Appended brand 'MANUKA HEALTH' to JSON file
+2025-03-08 21:44:15,549 - INFO - Saved brand 'MANUKA HEALTH' to temp file temp_brand_files\temp_MANUKA_HEALTH_1741470255.csv
+2025-03-08 21:44:15,568 - INFO - Added 'MANUKA HEALTH' to processed brands list
+2025-03-08 21:44:16,139 - INFO - Found 20 temp files to merge
+2025-03-08 21:44:16,183 - INFO - Loaded existing Excel file with 120 records
+2025-03-08 21:44:16,210 - INFO - Loaded existing CSV file with 120 records
+2025-03-08 21:44:16,375 - INFO - Successfully saved 140 records to Excel file (added 20 new records)
+2025-03-08 21:44:16,384 - INFO - Successfully saved 140 records to CSV file (added 20 new records)
+2025-03-08 21:44:18,642 - INFO - Page 7 completed with 20 new brands. Running total: 140
+2025-03-08 21:44:20,644 - INFO - Processing page 8 of 12
+2025-03-08 21:44:20,728 - INFO - ====== WebDriver manager ======
+2025-03-08 21:44:22,158 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:44:22,283 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:44:22,372 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:44:23,662 - INFO - Processing page 8: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=8&brands[filters][letter]=
+2025-03-08 21:44:26,128 - INFO - Found 20 brands on page 8, 20 are new
+2025-03-08 21:44:26,140 - INFO - Processing new brand: MARAISO on page 8
+2025-03-08 21:44:26,825 - INFO - Appended brand 'MARAISO' to JSON file
+2025-03-08 21:44:26,890 - INFO - Saved brand 'MARAISO' to temp file temp_brand_files\temp_MARAISO_1741470266.csv
+2025-03-08 21:44:26,893 - INFO - Added 'MARAISO' to processed brands list
+2025-03-08 21:44:27,511 - INFO - Processing new brand: MARC O'POLO on page 8
+2025-03-08 21:44:28,155 - INFO - Appended brand 'MARC O'POLO' to JSON file
+2025-03-08 21:44:28,196 - INFO - Saved brand 'MARC O'POLO' to temp file temp_brand_files\temp_MARC_O_POLO_1741470268.csv
+2025-03-08 21:44:28,213 - INFO - Added 'MARC O'POLO' to processed brands list
+2025-03-08 21:44:28,850 - INFO - Processing new brand: MARCH on page 8
+2025-03-08 21:44:29,515 - INFO - Appended brand 'MARCH' to JSON file
+2025-03-08 21:44:29,549 - INFO - Saved brand 'MARCH' to temp file temp_brand_files\temp_MARCH_1741470269.csv
+2025-03-08 21:44:29,564 - INFO - Added 'MARCH' to processed brands list
+2025-03-08 21:44:30,203 - INFO - Processing new brand: MARIE W. on page 8
+2025-03-08 21:44:30,989 - INFO - Appended brand 'MARIE W.' to JSON file
+2025-03-08 21:44:31,023 - INFO - Saved brand 'MARIE W.' to temp file temp_brand_files\temp_MARIE_W__1741470271.csv
+2025-03-08 21:44:31,037 - INFO - Added 'MARIE W.' to processed brands list
+2025-03-08 21:44:31,626 - INFO - Processing new brand: MARULALA on page 8
+2025-03-08 21:44:32,315 - INFO - Appended brand 'MARULALA' to JSON file
+2025-03-08 21:44:32,371 - INFO - Saved brand 'MARULALA' to temp file temp_brand_files\temp_MARULALA_1741470272.csv
+2025-03-08 21:44:32,383 - INFO - Added 'MARULALA' to processed brands list
+2025-03-08 21:44:32,953 - INFO - Processing new brand: MASTER LIN on page 8
+2025-03-08 21:44:37,783 - INFO - Appended brand 'MASTER LIN' to JSON file
+2025-03-08 21:44:37,813 - INFO - Saved brand 'MASTER LIN' to temp file temp_brand_files\temp_MASTER_LIN_1741470277.csv
+2025-03-08 21:44:37,815 - INFO - Added 'MASTER LIN' to processed brands list
+2025-03-08 21:44:38,425 - INFO - Processing new brand: MEDIHEMP on page 8
+2025-03-08 21:44:39,123 - INFO - Appended brand 'MEDIHEMP' to JSON file
+2025-03-08 21:44:39,189 - INFO - Saved brand 'MEDIHEMP' to temp file temp_brand_files\temp_MEDIHEMP_1741470279.csv
+2025-03-08 21:44:39,231 - INFO - Added 'MEDIHEMP' to processed brands list
+2025-03-08 21:44:39,864 - INFO - Processing new brand: MEDITERRANEA BIONATURA on page 8
+2025-03-08 21:44:40,533 - INFO - Appended brand 'MEDITERRANEA BIONATURA' to JSON file
+2025-03-08 21:44:40,563 - INFO - Saved brand 'MEDITERRANEA BIONATURA' to temp file temp_brand_files\temp_MEDITERRANEA_BIONATURA_1741470280.csv
+2025-03-08 21:44:40,574 - INFO - Added 'MEDITERRANEA BIONATURA' to processed brands list
+2025-03-08 21:44:41,175 - INFO - Processing new brand: MEDITERRANEA NATURA VITAMINA C+ on page 8
+2025-03-08 21:44:41,859 - INFO - Appended brand 'MEDITERRANEA NATURA VITAMINA C+' to JSON file
+2025-03-08 21:44:41,888 - INFO - Saved brand 'MEDITERRANEA NATURA VITAMINA C+' to temp file temp_brand_files\temp_MEDITERRANEA_NATURA_VITAMINA_C__1741470281.csv
+2025-03-08 21:44:41,904 - INFO - Added 'MEDITERRANEA NATURA VITAMINA C+' to processed brands list
+2025-03-08 21:44:42,502 - INFO - Processing new brand: MELLIFICO! on page 8
+2025-03-08 21:44:43,154 - INFO - Appended brand 'MELLIFICO!' to JSON file
+2025-03-08 21:44:43,198 - INFO - Saved brand 'MELLIFICO!' to temp file temp_brand_files\temp_MELLIFICO__1741470283.csv
+2025-03-08 21:44:43,210 - INFO - Added 'MELLIFICO!' to processed brands list
+2025-03-08 21:44:43,786 - INFO - Processing new brand: MELLOW NOIR on page 8
+2025-03-08 21:44:44,613 - INFO - Appended brand 'MELLOW NOIR' to JSON file
+2025-03-08 21:44:44,690 - INFO - Saved brand 'MELLOW NOIR' to temp file temp_brand_files\temp_MELLOW_NOIR_1741470284.csv
+2025-03-08 21:44:44,706 - INFO - Added 'MELLOW NOIR' to processed brands list
+2025-03-08 21:44:45,283 - INFO - Processing new brand: MISHKI on page 8
+2025-03-08 21:44:45,957 - INFO - Appended brand 'MISHKI' to JSON file
+2025-03-08 21:44:45,987 - INFO - Saved brand 'MISHKI' to temp file temp_brand_files\temp_MISHKI_1741470285.csv
+2025-03-08 21:44:45,998 - INFO - Added 'MISHKI' to processed brands list
+2025-03-08 21:44:46,576 - INFO - Processing new brand: MORICARE on page 8
+2025-03-08 21:44:47,212 - INFO - Appended brand 'MORICARE' to JSON file
+2025-03-08 21:44:47,266 - INFO - Saved brand 'MORICARE' to temp file temp_brand_files\temp_MORICARE_1741470287.csv
+2025-03-08 21:44:47,280 - INFO - Added 'MORICARE' to processed brands list
+2025-03-08 21:44:47,959 - INFO - Processing new brand: MOROCCAN SPA on page 8
+2025-03-08 21:44:48,720 - INFO - Appended brand 'MOROCCAN SPA' to JSON file
+2025-03-08 21:44:48,752 - INFO - Saved brand 'MOROCCAN SPA' to temp file temp_brand_files\temp_MOROCCAN_SPA_1741470288.csv
+2025-03-08 21:44:48,768 - INFO - Added 'MOROCCAN SPA' to processed brands list
+2025-03-08 21:44:49,353 - INFO - Processing new brand: MY BIOLUXE on page 8
+2025-03-08 21:44:50,015 - INFO - Appended brand 'MY BIOLUXE' to JSON file
+2025-03-08 21:44:50,044 - INFO - Saved brand 'MY BIOLUXE' to temp file temp_brand_files\temp_MY_BIOLUXE_1741470290.csv
+2025-03-08 21:44:50,056 - INFO - Added 'MY BIOLUXE' to processed brands list
+2025-03-08 21:44:50,636 - INFO - Processing new brand: N&B NATURAL IS BETTER on page 8
+2025-03-08 21:44:51,257 - INFO - Appended brand 'N&B NATURAL IS BETTER' to JSON file
+2025-03-08 21:44:51,290 - INFO - Saved brand 'N&B NATURAL IS BETTER' to temp file temp_brand_files\temp_N_B_NATURAL_IS_BETTER_1741470291.csv
+2025-03-08 21:44:51,305 - INFO - Added 'N&B NATURAL IS BETTER' to processed brands list
+2025-03-08 21:44:51,912 - INFO - Processing new brand: NAKT on page 8
+2025-03-08 21:44:52,595 - INFO - Appended brand 'NAKT' to JSON file
+2025-03-08 21:44:52,778 - INFO - Saved brand 'NAKT' to temp file temp_brand_files\temp_NAKT_1741470292.csv
+2025-03-08 21:44:52,793 - INFO - Added 'NAKT' to processed brands list
+2025-03-08 21:44:53,377 - INFO - Processing new brand: NATURALIS on page 8
+2025-03-08 21:44:54,116 - INFO - Appended brand 'NATURALIS' to JSON file
+2025-03-08 21:44:54,156 - INFO - Saved brand 'NATURALIS' to temp file temp_brand_files\temp_NATURALIS_1741470294.csv
+2025-03-08 21:44:54,171 - INFO - Added 'NATURALIS' to processed brands list
+2025-03-08 21:44:54,754 - INFO - Processing new brand: NATURE BLOSSOM on page 8
+2025-03-08 21:44:55,411 - INFO - Appended brand 'NATURE BLOSSOM' to JSON file
+2025-03-08 21:44:55,439 - INFO - Saved brand 'NATURE BLOSSOM' to temp file temp_brand_files\temp_NATURE_BLOSSOM_1741470295.csv
+2025-03-08 21:44:55,453 - INFO - Added 'NATURE BLOSSOM' to processed brands list
+2025-03-08 21:44:56,092 - INFO - Processing new brand: NATURE’S SECRETS NATURAL COSMETICS on page 8
+2025-03-08 21:44:56,790 - INFO - Appended brand 'NATURE’S SECRETS NATURAL COSMETICS' to JSON file
+2025-03-08 21:44:56,832 - INFO - Saved brand 'NATURE’S SECRETS NATURAL COSMETICS' to temp file temp_brand_files\temp_NATURE_S_SECRETS_NATURAL_COSMETICS_1741470296.csv
+2025-03-08 21:44:56,843 - INFO - Added 'NATURE’S SECRETS NATURAL COSMETICS' to processed brands list
+2025-03-08 21:44:57,402 - INFO - Found 20 temp files to merge
+2025-03-08 21:44:57,482 - INFO - Loaded existing Excel file with 140 records
+2025-03-08 21:44:57,516 - INFO - Loaded existing CSV file with 140 records
+2025-03-08 21:44:57,659 - INFO - Successfully saved 160 records to Excel file (added 20 new records)
+2025-03-08 21:44:57,666 - INFO - Successfully saved 160 records to CSV file (added 20 new records)
+2025-03-08 21:45:00,484 - INFO - Page 8 completed with 20 new brands. Running total: 160
+2025-03-08 21:45:02,485 - INFO - Processing page 9 of 12
+2025-03-08 21:45:02,514 - INFO - ====== WebDriver manager ======
+2025-03-08 21:45:03,981 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:45:04,159 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:45:04,327 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:45:05,615 - INFO - Processing page 9: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=9&brands[filters][letter]=
+2025-03-08 21:45:08,865 - INFO - Found 20 brands on page 9, 20 are new
+2025-03-08 21:45:08,912 - INFO - Processing new brand: NORWEX on page 9
+2025-03-08 21:45:09,593 - INFO - Appended brand 'NORWEX' to JSON file
+2025-03-08 21:45:09,631 - INFO - Saved brand 'NORWEX' to temp file temp_brand_files\temp_NORWEX_1741470309.csv
+2025-03-08 21:45:09,634 - INFO - Added 'NORWEX' to processed brands list
+2025-03-08 21:45:10,267 - INFO - Processing new brand: NOVA CARE on page 9
+2025-03-08 21:45:11,063 - INFO - Appended brand 'NOVA CARE' to JSON file
+2025-03-08 21:45:11,121 - INFO - Saved brand 'NOVA CARE' to temp file temp_brand_files\temp_NOVA_CARE_1741470311.csv
+2025-03-08 21:45:11,160 - INFO - Added 'NOVA CARE' to processed brands list
+2025-03-08 21:45:11,811 - INFO - Processing new brand: O WAY BEAUTY on page 9
+2025-03-08 21:45:12,610 - INFO - Appended brand 'O WAY BEAUTY' to JSON file
+2025-03-08 21:45:12,651 - INFO - Saved brand 'O WAY BEAUTY' to temp file temp_brand_files\temp_O_WAY_BEAUTY_1741470312.csv
+2025-03-08 21:45:12,673 - INFO - Added 'O WAY BEAUTY' to processed brands list
+2025-03-08 21:45:13,287 - INFO - Processing new brand: OCEANWELL on page 9
+2025-03-08 21:45:13,924 - INFO - Appended brand 'OCEANWELL' to JSON file
+2025-03-08 21:45:13,982 - INFO - Saved brand 'OCEANWELL' to temp file temp_brand_files\temp_OCEANWELL_1741470313.csv
+2025-03-08 21:45:13,998 - INFO - Added 'OCEANWELL' to processed brands list
+2025-03-08 21:45:14,631 - INFO - Processing new brand: OLAND on page 9
+2025-03-08 21:45:15,312 - INFO - Appended brand 'OLAND' to JSON file
+2025-03-08 21:45:15,358 - INFO - Saved brand 'OLAND' to temp file temp_brand_files\temp_OLAND_1741470315.csv
+2025-03-08 21:45:15,372 - INFO - Added 'OLAND' to processed brands list
+2025-03-08 21:45:15,944 - INFO - Processing new brand: OLIVAL DEO CARE on page 9
+2025-03-08 21:45:16,621 - INFO - Appended brand 'OLIVAL DEO CARE' to JSON file
+2025-03-08 21:45:16,662 - INFO - Saved brand 'OLIVAL DEO CARE' to temp file temp_brand_files\temp_OLIVAL_DEO_CARE_1741470316.csv
+2025-03-08 21:45:16,674 - INFO - Added 'OLIVAL DEO CARE' to processed brands list
+2025-03-08 21:45:17,260 - INFO - Processing new brand: OLIVAL FACECARE on page 9
+2025-03-08 21:45:17,912 - INFO - Appended brand 'OLIVAL FACECARE' to JSON file
+2025-03-08 21:45:17,979 - INFO - Saved brand 'OLIVAL FACECARE' to temp file temp_brand_files\temp_OLIVAL_FACECARE_1741470317.csv
+2025-03-08 21:45:17,999 - INFO - Added 'OLIVAL FACECARE' to processed brands list
+2025-03-08 21:45:18,708 - INFO - Processing new brand: OLIVELOVE! on page 9
+2025-03-08 21:45:19,424 - INFO - Appended brand 'OLIVELOVE!' to JSON file
+2025-03-08 21:45:19,476 - INFO - Saved brand 'OLIVELOVE!' to temp file temp_brand_files\temp_OLIVELOVE__1741470319.csv
+2025-03-08 21:45:19,488 - INFO - Added 'OLIVELOVE!' to processed brands list
+2025-03-08 21:45:20,126 - INFO - Processing new brand: OMBIA NATURE on page 9
+2025-03-08 21:45:25,099 - INFO - Appended brand 'OMBIA NATURE' to JSON file
+2025-03-08 21:45:25,134 - INFO - Saved brand 'OMBIA NATURE' to temp file temp_brand_files\temp_OMBIA_NATURE_1741470325.csv
+2025-03-08 21:45:25,136 - INFO - Added 'OMBIA NATURE' to processed brands list
+2025-03-08 21:45:25,710 - INFO - Processing new brand: OMBRA SUN NATURE on page 9
+2025-03-08 21:45:26,408 - INFO - Appended brand 'OMBRA SUN NATURE' to JSON file
+2025-03-08 21:45:26,441 - INFO - Saved brand 'OMBRA SUN NATURE' to temp file temp_brand_files\temp_OMBRA_SUN_NATURE_1741470326.csv
+2025-03-08 21:45:26,452 - INFO - Added 'OMBRA SUN NATURE' to processed brands list
+2025-03-08 21:45:27,029 - INFO - Processing new brand: OUTDOOR FREAKZ on page 9
+2025-03-08 21:45:27,647 - INFO - Appended brand 'OUTDOOR FREAKZ' to JSON file
+2025-03-08 21:45:27,683 - INFO - Saved brand 'OUTDOOR FREAKZ' to temp file temp_brand_files\temp_OUTDOOR_FREAKZ_1741470327.csv
+2025-03-08 21:45:27,695 - INFO - Added 'OUTDOOR FREAKZ' to processed brands list
+2025-03-08 21:45:28,352 - INFO - Processing new brand: OUTDOOR FREAKZ SEIFEN-SERIE on page 9
+2025-03-08 21:45:29,090 - INFO - Appended brand 'OUTDOOR FREAKZ SEIFEN-SERIE' to JSON file
+2025-03-08 21:45:29,127 - INFO - Saved brand 'OUTDOOR FREAKZ SEIFEN-SERIE' to temp file temp_brand_files\temp_OUTDOOR_FREAKZ_SEIFEN_SERIE_1741470329.csv
+2025-03-08 21:45:29,145 - INFO - Added 'OUTDOOR FREAKZ SEIFEN-SERIE' to processed brands list
+2025-03-08 21:45:29,719 - INFO - Processing new brand: OYUNA on page 9
+2025-03-08 21:45:30,520 - INFO - Appended brand 'OYUNA' to JSON file
+2025-03-08 21:45:30,574 - INFO - Saved brand 'OYUNA' to temp file temp_brand_files\temp_OYUNA_1741470330.csv
+2025-03-08 21:45:30,588 - INFO - Added 'OYUNA' to processed brands list
+2025-03-08 21:45:31,155 - INFO - Processing new brand: PATOUNIS SOAP on page 9
+2025-03-08 21:45:31,776 - INFO - Appended brand 'PATOUNIS SOAP' to JSON file
+2025-03-08 21:45:31,807 - INFO - Saved brand 'PATOUNIS SOAP' to temp file temp_brand_files\temp_PATOUNIS_SOAP_1741470331.csv
+2025-03-08 21:45:31,817 - INFO - Added 'PATOUNIS SOAP' to processed brands list
+2025-03-08 21:45:32,436 - INFO - Processing new brand: PECLAVUS® on page 9
+2025-03-08 21:45:33,089 - INFO - Appended brand 'PECLAVUS®' to JSON file
+2025-03-08 21:45:33,123 - INFO - Saved brand 'PECLAVUS®' to temp file temp_brand_files\temp_PECLAVUS__1741470333.csv
+2025-03-08 21:45:33,136 - INFO - Added 'PECLAVUS®' to processed brands list
+2025-03-08 21:45:33,708 - INFO - Processing new brand: PINUSVITAL on page 9
+2025-03-08 21:45:34,377 - INFO - Appended brand 'PINUSVITAL' to JSON file
+2025-03-08 21:45:34,407 - INFO - Saved brand 'PINUSVITAL' to temp file temp_brand_files\temp_PINUSVITAL_1741470334.csv
+2025-03-08 21:45:34,419 - INFO - Added 'PINUSVITAL' to processed brands list
+2025-03-08 21:45:34,990 - INFO - Processing new brand: PRATO BOTANICO on page 9
+2025-03-08 21:45:35,620 - INFO - Appended brand 'PRATO BOTANICO' to JSON file
+2025-03-08 21:45:35,651 - INFO - Saved brand 'PRATO BOTANICO' to temp file temp_brand_files\temp_PRATO_BOTANICO_1741470335.csv
+2025-03-08 21:45:35,663 - INFO - Added 'PRATO BOTANICO' to processed brands list
+2025-03-08 21:45:36,235 - INFO - Processing new brand: PRIMAVERA on page 9
+2025-03-08 21:45:36,885 - INFO - Appended brand 'PRIMAVERA' to JSON file
+2025-03-08 21:45:36,921 - INFO - Saved brand 'PRIMAVERA' to temp file temp_brand_files\temp_PRIMAVERA_1741470336.csv
+2025-03-08 21:45:36,934 - INFO - Added 'PRIMAVERA' to processed brands list
+2025-03-08 21:45:37,524 - INFO - Processing new brand: PURE HARMONY on page 9
+2025-03-08 21:45:38,143 - INFO - Appended brand 'PURE HARMONY' to JSON file
+2025-03-08 21:45:38,176 - INFO - Saved brand 'PURE HARMONY' to temp file temp_brand_files\temp_PURE_HARMONY_1741470338.csv
+2025-03-08 21:45:38,190 - INFO - Added 'PURE HARMONY' to processed brands list
+2025-03-08 21:45:38,776 - INFO - Processing new brand: PURELAN on page 9
+2025-03-08 21:45:39,400 - INFO - Appended brand 'PURELAN' to JSON file
+2025-03-08 21:45:39,432 - INFO - Saved brand 'PURELAN' to temp file temp_brand_files\temp_PURELAN_1741470339.csv
+2025-03-08 21:45:39,445 - INFO - Added 'PURELAN' to processed brands list
+2025-03-08 21:45:40,016 - INFO - Found 20 temp files to merge
+2025-03-08 21:45:40,152 - INFO - Loaded existing Excel file with 160 records
+2025-03-08 21:45:40,171 - INFO - Loaded existing CSV file with 160 records
+2025-03-08 21:45:40,272 - INFO - Successfully saved 180 records to Excel file (added 20 new records)
+2025-03-08 21:45:40,283 - INFO - Successfully saved 180 records to CSV file (added 20 new records)
+2025-03-08 21:45:43,068 - INFO - Page 9 completed with 20 new brands. Running total: 180
+2025-03-08 21:45:45,069 - INFO - Processing page 10 of 12
+2025-03-08 21:45:45,086 - INFO - ====== WebDriver manager ======
+2025-03-08 21:45:46,345 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:45:46,558 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:45:46,664 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:45:48,007 - INFO - Processing page 10: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=10&brands[filters][letter]=
+2025-03-08 21:45:50,671 - INFO - Found 20 brands on page 10, 20 are new
+2025-03-08 21:45:50,682 - INFO - Processing new brand: PURITY VISION on page 10
+2025-03-08 21:45:51,471 - INFO - Appended brand 'PURITY VISION' to JSON file
+2025-03-08 21:45:51,522 - INFO - Saved brand 'PURITY VISION' to temp file temp_brand_files\temp_PURITY_VISION_1741470351.csv
+2025-03-08 21:45:51,525 - INFO - Added 'PURITY VISION' to processed brands list
+2025-03-08 21:45:52,117 - INFO - Processing new brand: QUARNERO on page 10
+2025-03-08 21:45:52,799 - INFO - Appended brand 'QUARNERO' to JSON file
+2025-03-08 21:45:52,837 - INFO - Saved brand 'QUARNERO' to temp file temp_brand_files\temp_QUARNERO_1741470352.csv
+2025-03-08 21:45:52,849 - INFO - Added 'QUARNERO' to processed brands list
+2025-03-08 21:45:53,425 - INFO - Processing new brand: QURADEA on page 10
+2025-03-08 21:45:54,043 - INFO - Appended brand 'QURADEA' to JSON file
+2025-03-08 21:45:54,081 - INFO - Saved brand 'QURADEA' to temp file temp_brand_files\temp_QURADEA_1741470354.csv
+2025-03-08 21:45:54,094 - INFO - Added 'QURADEA' to processed brands list
+2025-03-08 21:45:54,720 - INFO - Processing new brand: RAW NATURKOSMETIK on page 10
+2025-03-08 21:45:55,361 - INFO - Appended brand 'RAW NATURKOSMETIK' to JSON file
+2025-03-08 21:45:55,411 - INFO - Saved brand 'RAW NATURKOSMETIK' to temp file temp_brand_files\temp_RAW_NATURKOSMETIK_1741470355.csv
+2025-03-08 21:45:55,424 - INFO - Added 'RAW NATURKOSMETIK' to processed brands list
+2025-03-08 21:45:56,001 - INFO - Processing new brand: RED SEAL on page 10
+2025-03-08 21:45:56,757 - INFO - Appended brand 'RED SEAL' to JSON file
+2025-03-08 21:45:56,827 - INFO - Saved brand 'RED SEAL' to temp file temp_brand_files\temp_RED_SEAL_1741470356.csv
+2025-03-08 21:45:56,852 - INFO - Added 'RED SEAL' to processed brands list
+2025-03-08 21:45:57,450 - INFO - Processing new brand: REITERS ORGANIC COSMETICS on page 10
+2025-03-08 21:45:58,063 - INFO - Appended brand 'REITERS ORGANIC COSMETICS' to JSON file
+2025-03-08 21:45:58,097 - INFO - Saved brand 'REITERS ORGANIC COSMETICS' to temp file temp_brand_files\temp_REITERS_ORGANIC_COSMETICS_1741470358.csv
+2025-03-08 21:45:58,110 - INFO - Added 'REITERS ORGANIC COSMETICS' to processed brands list
+2025-03-08 21:45:58,691 - INFO - Processing new brand: RIMITA on page 10
+2025-03-08 21:45:59,344 - INFO - Appended brand 'RIMITA' to JSON file
+2025-03-08 21:45:59,380 - INFO - Saved brand 'RIMITA' to temp file temp_brand_files\temp_RIMITA_1741470359.csv
+2025-03-08 21:45:59,391 - INFO - Added 'RIMITA' to processed brands list
+2025-03-08 21:45:59,986 - INFO - Processing new brand: ROBERT & JOSIANE on page 10
+2025-03-08 21:46:00,640 - INFO - Appended brand 'ROBERT & JOSIANE' to JSON file
+2025-03-08 21:46:00,695 - INFO - Saved brand 'ROBERT & JOSIANE' to temp file temp_brand_files\temp_ROBERT___JOSIANE_1741470360.csv
+2025-03-08 21:46:00,708 - INFO - Added 'ROBERT & JOSIANE' to processed brands list
+2025-03-08 21:46:01,352 - INFO - Processing new brand: RUCK® on page 10
+2025-03-08 21:46:02,006 - INFO - Appended brand 'RUCK®' to JSON file
+2025-03-08 21:46:02,041 - INFO - Saved brand 'RUCK®' to temp file temp_brand_files\temp_RUCK__1741470362.csv
+2025-03-08 21:46:02,053 - INFO - Added 'RUCK®' to processed brands list
+2025-03-08 21:46:02,630 - INFO - Processing new brand: SALZQUELL® on page 10
+2025-03-08 21:46:03,260 - INFO - Appended brand 'SALZQUELL®' to JSON file
+2025-03-08 21:46:03,314 - INFO - Saved brand 'SALZQUELL®' to temp file temp_brand_files\temp_SALZQUELL__1741470363.csv
+2025-03-08 21:46:03,328 - INFO - Added 'SALZQUELL®' to processed brands list
+2025-03-08 21:46:03,947 - INFO - Processing new brand: SANAYA on page 10
+2025-03-08 21:46:04,587 - INFO - Appended brand 'SANAYA' to JSON file
+2025-03-08 21:46:04,619 - INFO - Saved brand 'SANAYA' to temp file temp_brand_files\temp_SANAYA_1741470364.csv
+2025-03-08 21:46:04,630 - INFO - Added 'SANAYA' to processed brands list
+2025-03-08 21:46:05,201 - INFO - Processing new brand: SANDICCA on page 10
+2025-03-08 21:46:10,059 - INFO - Appended brand 'SANDICCA' to JSON file
+2025-03-08 21:46:10,096 - INFO - Saved brand 'SANDICCA' to temp file temp_brand_files\temp_SANDICCA_1741470370.csv
+2025-03-08 21:46:10,098 - INFO - Added 'SANDICCA' to processed brands list
+2025-03-08 21:46:10,675 - INFO - Processing new brand: SANTAVERDE on page 10
+2025-03-08 21:46:11,288 - INFO - Appended brand 'SANTAVERDE' to JSON file
+2025-03-08 21:46:11,336 - INFO - Saved brand 'SANTAVERDE' to temp file temp_brand_files\temp_SANTAVERDE_1741470371.csv
+2025-03-08 21:46:11,349 - INFO - Added 'SANTAVERDE' to processed brands list
+2025-03-08 21:46:12,027 - INFO - Processing new brand: SANTE on page 10
+2025-03-08 21:46:12,698 - INFO - Appended brand 'SANTE' to JSON file
+2025-03-08 21:46:12,747 - INFO - Saved brand 'SANTE' to temp file temp_brand_files\temp_SANTE_1741470372.csv
+2025-03-08 21:46:12,761 - INFO - Added 'SANTE' to processed brands list
+2025-03-08 21:46:13,331 - INFO - Processing new brand: SCHWARZKÜMMEL-ÖL NATURKOSMETIK on page 10
+2025-03-08 21:46:13,943 - INFO - Appended brand 'SCHWARZKÜMMEL-ÖL NATURKOSMETIK' to JSON file
+2025-03-08 21:46:13,978 - INFO - Saved brand 'SCHWARZKÜMMEL-ÖL NATURKOSMETIK' to temp file temp_brand_files\temp_SCHWARZKÜMMEL_ÖL_NATURKOSMETIK_1741470373.csv
+2025-03-08 21:46:13,989 - INFO - Added 'SCHWARZKÜMMEL-ÖL NATURKOSMETIK' to processed brands list
+2025-03-08 21:46:14,555 - INFO - Processing new brand: SELMARINA on page 10
+2025-03-08 21:46:15,184 - INFO - Appended brand 'SELMARINA' to JSON file
+2025-03-08 21:46:15,249 - INFO - Saved brand 'SELMARINA' to temp file temp_brand_files\temp_SELMARINA_1741470375.csv
+2025-03-08 21:46:15,260 - INFO - Added 'SELMARINA' to processed brands list
+2025-03-08 21:46:15,829 - INFO - Processing new brand: SILICEA NATURKOSMETIK on page 10
+2025-03-08 21:46:16,463 - INFO - Appended brand 'SILICEA NATURKOSMETIK' to JSON file
+2025-03-08 21:46:16,503 - INFO - Saved brand 'SILICEA NATURKOSMETIK' to temp file temp_brand_files\temp_SILICEA_NATURKOSMETIK_1741470376.csv
+2025-03-08 21:46:16,515 - INFO - Added 'SILICEA NATURKOSMETIK' to processed brands list
+2025-03-08 21:46:17,092 - INFO - Processing new brand: SO NATÜRLICH on page 10
+2025-03-08 21:46:17,755 - INFO - Appended brand 'SO NATÜRLICH' to JSON file
+2025-03-08 21:46:17,795 - INFO - Saved brand 'SO NATÜRLICH' to temp file temp_brand_files\temp_SO_NATÜRLICH_1741470377.csv
+2025-03-08 21:46:17,807 - INFO - Added 'SO NATÜRLICH' to processed brands list
+2025-03-08 21:46:18,375 - INFO - Processing new brand: SOEDER on page 10
+2025-03-08 21:46:19,010 - INFO - Appended brand 'SOEDER' to JSON file
+2025-03-08 21:46:19,074 - INFO - Saved brand 'SOEDER' to temp file temp_brand_files\temp_SOEDER_1741470379.csv
+2025-03-08 21:46:19,092 - INFO - Added 'SOEDER' to processed brands list
+2025-03-08 21:46:19,710 - INFO - Processing new brand: SOLE TOSCANA on page 10
+2025-03-08 21:46:20,448 - INFO - Appended brand 'SOLE TOSCANA' to JSON file
+2025-03-08 21:46:20,488 - INFO - Saved brand 'SOLE TOSCANA' to temp file temp_brand_files\temp_SOLE_TOSCANA_1741470380.csv
+2025-03-08 21:46:20,503 - INFO - Added 'SOLE TOSCANA' to processed brands list
+2025-03-08 21:46:21,063 - INFO - Found 20 temp files to merge
+2025-03-08 21:46:21,115 - INFO - Loaded existing Excel file with 180 records
+2025-03-08 21:46:21,132 - INFO - Loaded existing CSV file with 180 records
+2025-03-08 21:46:21,230 - INFO - Successfully saved 200 records to Excel file (added 20 new records)
+2025-03-08 21:46:21,238 - INFO - Successfully saved 200 records to CSV file (added 20 new records)
+2025-03-08 21:46:24,093 - INFO - Page 10 completed with 20 new brands. Running total: 200
+2025-03-08 21:46:26,094 - INFO - Processing page 11 of 12
+2025-03-08 21:46:26,105 - INFO - ====== WebDriver manager ======
+2025-03-08 21:46:27,377 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:46:27,486 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:46:27,642 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:46:28,880 - INFO - Processing page 11: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=11&brands[filters][letter]=
+2025-03-08 21:46:31,909 - INFO - Found 20 brands on page 11, 20 are new
+2025-03-08 21:46:31,926 - INFO - Processing new brand: SOLIMARA on page 11
+2025-03-08 21:46:32,690 - INFO - Appended brand 'SOLIMARA' to JSON file
+2025-03-08 21:46:32,731 - INFO - Saved brand 'SOLIMARA' to temp file temp_brand_files\temp_SOLIMARA_1741470392.csv
+2025-03-08 21:46:32,734 - INFO - Added 'SOLIMARA' to processed brands list
+2025-03-08 21:46:33,364 - INFO - Processing new brand: SOLLING NATURKOSMETIK on page 11
+2025-03-08 21:46:34,026 - INFO - Appended brand 'SOLLING NATURKOSMETIK' to JSON file
+2025-03-08 21:46:38,251 - INFO - Saved brand 'SOLLING NATURKOSMETIK' to temp file temp_brand_files\temp_SOLLING_NATURKOSMETIK_1741470398.csv
+2025-03-08 21:46:38,265 - INFO - Added 'SOLLING NATURKOSMETIK' to processed brands list
+2025-03-08 21:46:38,852 - INFO - Processing new brand: SPAGYROS on page 11
+2025-03-08 21:46:39,485 - INFO - Appended brand 'SPAGYROS' to JSON file
+2025-03-08 21:46:39,537 - INFO - Saved brand 'SPAGYROS' to temp file temp_brand_files\temp_SPAGYROS_1741470399.csv
+2025-03-08 21:46:39,551 - INFO - Added 'SPAGYROS' to processed brands list
+2025-03-08 21:46:40,216 - INFO - Processing new brand: SPORTSTICK BIO SUNSCREEN on page 11
+2025-03-08 21:46:40,881 - INFO - Appended brand 'SPORTSTICK BIO SUNSCREEN' to JSON file
+2025-03-08 21:46:40,924 - INFO - Saved brand 'SPORTSTICK BIO SUNSCREEN' to temp file temp_brand_files\temp_SPORTSTICK_BIO_SUNSCREEN_1741470400.csv
+2025-03-08 21:46:40,936 - INFO - Added 'SPORTSTICK BIO SUNSCREEN' to processed brands list
+2025-03-08 21:46:41,511 - INFO - Processing new brand: STUDIO BOTANIC on page 11
+2025-03-08 21:46:42,236 - INFO - Appended brand 'STUDIO BOTANIC' to JSON file
+2025-03-08 21:46:42,308 - INFO - Saved brand 'STUDIO BOTANIC' to temp file temp_brand_files\temp_STUDIO_BOTANIC_1741470402.csv
+2025-03-08 21:46:42,320 - INFO - Added 'STUDIO BOTANIC' to processed brands list
+2025-03-08 21:46:42,908 - INFO - Processing new brand: TAOASIS on page 11
+2025-03-08 21:46:43,559 - INFO - Appended brand 'TAOASIS' to JSON file
+2025-03-08 21:46:43,617 - INFO - Saved brand 'TAOASIS' to temp file temp_brand_files\temp_TAOASIS_1741470403.csv
+2025-03-08 21:46:43,634 - INFO - Added 'TAOASIS' to processed brands list
+2025-03-08 21:46:44,264 - INFO - Processing new brand: TASH SISTERHOOD on page 11
+2025-03-08 21:46:44,946 - INFO - Appended brand 'TASH SISTERHOOD' to JSON file
+2025-03-08 21:46:45,021 - INFO - Saved brand 'TASH SISTERHOOD' to temp file temp_brand_files\temp_TASH_SISTERHOOD_1741470405.csv
+2025-03-08 21:46:45,037 - INFO - Added 'TASH SISTERHOOD' to processed brands list
+2025-03-08 21:46:45,619 - INFO - Processing new brand: TERPENIC on page 11
+2025-03-08 21:46:46,276 - INFO - Appended brand 'TERPENIC' to JSON file
+2025-03-08 21:46:46,317 - INFO - Saved brand 'TERPENIC' to temp file temp_brand_files\temp_TERPENIC_1741470406.csv
+2025-03-08 21:46:46,328 - INFO - Added 'TERPENIC' to processed brands list
+2025-03-08 21:46:46,963 - INFO - Processing new brand: TERRA NATURA on page 11
+2025-03-08 21:46:47,583 - INFO - Appended brand 'TERRA NATURA' to JSON file
+2025-03-08 21:46:47,623 - INFO - Saved brand 'TERRA NATURA' to temp file temp_brand_files\temp_TERRA_NATURA_1741470407.csv
+2025-03-08 21:46:47,635 - INFO - Added 'TERRA NATURA' to processed brands list
+2025-03-08 21:46:48,272 - INFO - Processing new brand: TERRA NATURI NATURKOSMETIK on page 11
+2025-03-08 21:46:49,030 - INFO - Appended brand 'TERRA NATURI NATURKOSMETIK' to JSON file
+2025-03-08 21:46:49,093 - INFO - Saved brand 'TERRA NATURI NATURKOSMETIK' to temp file temp_brand_files\temp_TERRA_NATURI_NATURKOSMETIK_1741470409.csv
+2025-03-08 21:46:49,107 - INFO - Added 'TERRA NATURI NATURKOSMETIK' to processed brands list
+2025-03-08 21:46:49,677 - INFO - Processing new brand: THAT’S ME ORGANIC BIO on page 11
+2025-03-08 21:46:50,356 - INFO - Appended brand 'THAT’S ME ORGANIC BIO' to JSON file
+2025-03-08 21:46:50,404 - INFO - Saved brand 'THAT’S ME ORGANIC BIO' to temp file temp_brand_files\temp_THAT_S_ME_ORGANIC_BIO_1741470410.csv
+2025-03-08 21:46:50,420 - INFO - Added 'THAT’S ME ORGANIC BIO' to processed brands list
+2025-03-08 21:46:50,995 - INFO - Processing new brand: THE BAUMERY on page 11
+2025-03-08 21:46:51,642 - INFO - Appended brand 'THE BAUMERY' to JSON file
+2025-03-08 21:46:51,679 - INFO - Saved brand 'THE BAUMERY' to temp file temp_brand_files\temp_THE_BAUMERY_1741470411.csv
+2025-03-08 21:46:51,691 - INFO - Added 'THE BAUMERY' to processed brands list
+2025-03-08 21:46:52,336 - INFO - Processing new brand: TRIGENERA on page 11
+2025-03-08 21:46:52,984 - INFO - Appended brand 'TRIGENERA' to JSON file
+2025-03-08 21:46:53,108 - INFO - Saved brand 'TRIGENERA' to temp file temp_brand_files\temp_TRIGENERA_1741470413.csv
+2025-03-08 21:46:53,126 - INFO - Added 'TRIGENERA' to processed brands list
+2025-03-08 21:46:53,752 - INFO - Processing new brand: TRILOGY NATURAL PRODUCTS LTD on page 11
+2025-03-08 21:46:54,497 - INFO - Appended brand 'TRILOGY NATURAL PRODUCTS LTD' to JSON file
+2025-03-08 21:46:54,566 - INFO - Saved brand 'TRILOGY NATURAL PRODUCTS LTD' to temp file temp_brand_files\temp_TRILOGY_NATURAL_PRODUCTS_LTD_1741470414.csv
+2025-03-08 21:46:54,589 - INFO - Added 'TRILOGY NATURAL PRODUCTS LTD' to processed brands list
+2025-03-08 21:46:55,191 - INFO - Processing new brand: ULTRASUN MINERAL on page 11
+2025-03-08 21:46:55,992 - INFO - Appended brand 'ULTRASUN MINERAL' to JSON file
+2025-03-08 21:46:56,073 - INFO - Saved brand 'ULTRASUN MINERAL' to temp file temp_brand_files\temp_ULTRASUN_MINERAL_1741470416.csv
+2025-03-08 21:46:56,092 - INFO - Added 'ULTRASUN MINERAL' to processed brands list
+2025-03-08 21:46:56,714 - INFO - Processing new brand: V MAGIC BIO on page 11
+2025-03-08 21:46:57,350 - INFO - Appended brand 'V MAGIC BIO' to JSON file
+2025-03-08 21:46:57,389 - INFO - Saved brand 'V MAGIC BIO' to temp file temp_brand_files\temp_V_MAGIC_BIO_1741470417.csv
+2025-03-08 21:46:57,401 - INFO - Added 'V MAGIC BIO' to processed brands list
+2025-03-08 21:46:58,033 - INFO - Processing new brand: VAIR- BORGO EGNAZIA on page 11
+2025-03-08 21:46:58,736 - INFO - Appended brand 'VAIR- BORGO EGNAZIA' to JSON file
+2025-03-08 21:46:58,800 - INFO - Saved brand 'VAIR- BORGO EGNAZIA' to temp file temp_brand_files\temp_VAIR__BORGO_EGNAZIA_1741470418.csv
+2025-03-08 21:46:58,812 - INFO - Added 'VAIR- BORGO EGNAZIA' to processed brands list
+2025-03-08 21:46:59,380 - INFO - Processing new brand: VEDIC AROMA on page 11
+2025-03-08 21:46:59,992 - INFO - Appended brand 'VEDIC AROMA' to JSON file
+2025-03-08 21:47:00,038 - INFO - Saved brand 'VEDIC AROMA' to temp file temp_brand_files\temp_VEDIC_AROMA_1741470420.csv
+2025-03-08 21:47:00,049 - INFO - Added 'VEDIC AROMA' to processed brands list
+2025-03-08 21:47:00,615 - INFO - Processing new brand: VELAN on page 11
+2025-03-08 21:47:01,234 - INFO - Appended brand 'VELAN' to JSON file
+2025-03-08 21:47:01,309 - INFO - Saved brand 'VELAN' to temp file temp_brand_files\temp_VELAN_1741470421.csv
+2025-03-08 21:47:01,324 - INFO - Added 'VELAN' to processed brands list
+2025-03-08 21:47:02,002 - INFO - Processing new brand: VELVETY on page 11
+2025-03-08 21:47:02,737 - INFO - Appended brand 'VELVETY' to JSON file
+2025-03-08 21:47:02,809 - INFO - Saved brand 'VELVETY' to temp file temp_brand_files\temp_VELVETY_1741470422.csv
+2025-03-08 21:47:02,827 - INFO - Added 'VELVETY' to processed brands list
+2025-03-08 21:47:03,410 - INFO - Found 20 temp files to merge
+2025-03-08 21:47:03,511 - INFO - Loaded existing Excel file with 200 records
+2025-03-08 21:47:03,539 - INFO - Loaded existing CSV file with 200 records
+2025-03-08 21:47:03,679 - INFO - Successfully saved 220 records to Excel file (added 20 new records)
+2025-03-08 21:47:03,687 - INFO - Successfully saved 220 records to CSV file (added 20 new records)
+2025-03-08 21:47:06,485 - INFO - Page 11 completed with 20 new brands. Running total: 220
+2025-03-08 21:47:08,486 - INFO - Processing page 12 of 12
+2025-03-08 21:47:08,496 - INFO - ====== WebDriver manager ======
+2025-03-08 21:47:09,730 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:47:09,871 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 21:47:10,004 - INFO - Driver [C:\Users\medsi\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 21:47:11,205 - INFO - Processing page 12: https://natrue.org/our-standard/natrue-certified-world/?database[tab]=brands&prod[pageIndex]=16&prod[search]=&brands[pageNumber]=12&brands[filters][letter]=
+2025-03-08 21:47:14,299 - INFO - Found 14 brands on page 12, 14 are new
+2025-03-08 21:47:14,325 - INFO - Processing new brand: VEMAL INTIM on page 12
+2025-03-08 21:47:14,975 - INFO - Appended brand 'VEMAL INTIM' to JSON file
+2025-03-08 21:47:15,023 - INFO - Saved brand 'VEMAL INTIM' to temp file temp_brand_files\temp_VEMAL_INTIM_1741470435.csv
+2025-03-08 21:47:15,025 - INFO - Added 'VEMAL INTIM' to processed brands list
+2025-03-08 21:47:15,615 - INFO - Processing new brand: VETIA FLORIS on page 12
+2025-03-08 21:47:16,311 - INFO - Appended brand 'VETIA FLORIS' to JSON file
+2025-03-08 21:47:16,394 - INFO - Saved brand 'VETIA FLORIS' to temp file temp_brand_files\temp_VETIA_FLORIS_1741470436.csv
+2025-03-08 21:47:16,407 - INFO - Added 'VETIA FLORIS' to processed brands list
+2025-03-08 21:47:17,040 - INFO - Processing new brand: VETIA MARE on page 12
+2025-03-08 21:47:17,786 - INFO - Appended brand 'VETIA MARE' to JSON file
+2025-03-08 21:47:21,971 - INFO - Saved brand 'VETIA MARE' to temp file temp_brand_files\temp_VETIA_MARE_1741470441.csv
+2025-03-08 21:47:21,989 - INFO - Added 'VETIA MARE' to processed brands list
+2025-03-08 21:47:22,603 - INFO - Processing new brand: VITABASE on page 12
+2025-03-08 21:47:23,269 - INFO - Appended brand 'VITABASE' to JSON file
+2025-03-08 21:47:23,327 - INFO - Saved brand 'VITABASE' to temp file temp_brand_files\temp_VITABASE_1741470443.csv
+2025-03-08 21:47:23,347 - INFO - Added 'VITABASE' to processed brands list
+2025-03-08 21:47:23,918 - INFO - Processing new brand: VITAMAGIC on page 12
+2025-03-08 21:47:24,546 - INFO - Appended brand 'VITAMAGIC' to JSON file
+2025-03-08 21:47:24,607 - INFO - Saved brand 'VITAMAGIC' to temp file temp_brand_files\temp_VITAMAGIC_1741470444.csv
+2025-03-08 21:47:24,620 - INFO - Added 'VITAMAGIC' to processed brands list
+2025-03-08 21:47:25,190 - INFO - Processing new brand: VIVI VERDE COOP on page 12
+2025-03-08 21:47:25,844 - INFO - Appended brand 'VIVI VERDE COOP' to JSON file
+2025-03-08 21:47:25,910 - INFO - Saved brand 'VIVI VERDE COOP' to temp file temp_brand_files\temp_VIVI_VERDE_COOP_1741470445.csv
+2025-03-08 21:47:25,928 - INFO - Added 'VIVI VERDE COOP' to processed brands list
+2025-03-08 21:47:26,520 - INFO - Processing new brand: VOM ACHTERHOF on page 12
+2025-03-08 21:47:27,204 - INFO - Appended brand 'VOM ACHTERHOF' to JSON file
+2025-03-08 21:47:27,278 - INFO - Saved brand 'VOM ACHTERHOF' to temp file temp_brand_files\temp_VOM_ACHTERHOF_1741470447.csv
+2025-03-08 21:47:27,302 - INFO - Added 'VOM ACHTERHOF' to processed brands list
+2025-03-08 21:47:27,889 - INFO - Processing new brand: VUJO FRISCHLING on page 12
+2025-03-08 21:47:28,526 - INFO - Appended brand 'VUJO FRISCHLING' to JSON file
+2025-03-08 21:47:28,573 - INFO - Saved brand 'VUJO FRISCHLING' to temp file temp_brand_files\temp_VUJO_FRISCHLING_1741470448.csv
+2025-03-08 21:47:28,584 - INFO - Added 'VUJO FRISCHLING' to processed brands list
+2025-03-08 21:47:29,219 - INFO - Processing new brand: WATER & SALT on page 12
+2025-03-08 21:47:29,850 - INFO - Appended brand 'WATER & SALT' to JSON file
+2025-03-08 21:47:29,893 - INFO - Saved brand 'WATER & SALT' to temp file temp_brand_files\temp_WATER___SALT_1741470449.csv
+2025-03-08 21:47:29,907 - INFO - Added 'WATER & SALT' to processed brands list
+2025-03-08 21:47:30,479 - INFO - Processing new brand: WELEDA on page 12
+2025-03-08 21:47:31,103 - INFO - Appended brand 'WELEDA' to JSON file
+2025-03-08 21:47:31,154 - INFO - Saved brand 'WELEDA' to temp file temp_brand_files\temp_WELEDA_1741470451.csv
+2025-03-08 21:47:31,168 - INFO - Added 'WELEDA' to processed brands list
+2025-03-08 21:47:31,754 - INFO - Processing new brand: WELLMAX on page 12
+2025-03-08 21:47:32,501 - INFO - Appended brand 'WELLMAX' to JSON file
+2025-03-08 21:47:32,556 - INFO - Saved brand 'WELLMAX' to temp file temp_brand_files\temp_WELLMAX_1741470452.csv
+2025-03-08 21:47:32,569 - INFO - Added 'WELLMAX' to processed brands list
+2025-03-08 21:47:33,205 - INFO - Processing new brand: WHITE FLAMINGO on page 12
+2025-03-08 21:47:33,830 - INFO - Appended brand 'WHITE FLAMINGO' to JSON file
+2025-03-08 21:47:33,909 - INFO - Saved brand 'WHITE FLAMINGO' to temp file temp_brand_files\temp_WHITE_FLAMINGO_1741470453.csv
+2025-03-08 21:47:33,924 - INFO - Added 'WHITE FLAMINGO' to processed brands list
+2025-03-08 21:47:34,516 - INFO - Processing new brand: WILLI DUNGL on page 12
+2025-03-08 21:47:35,234 - INFO - Appended brand 'WILLI DUNGL' to JSON file
+2025-03-08 21:47:35,299 - INFO - Saved brand 'WILLI DUNGL' to temp file temp_brand_files\temp_WILLI_DUNGL_1741470455.csv
+2025-03-08 21:47:35,315 - INFO - Added 'WILLI DUNGL' to processed brands list
+2025-03-08 21:47:35,889 - INFO - Processing new brand: XANTARA on page 12
+2025-03-08 21:47:36,520 - INFO - Appended brand 'XANTARA' to JSON file
+2025-03-08 21:47:36,644 - INFO - Saved brand 'XANTARA' to temp file temp_brand_files\temp_XANTARA_1741470456.csv
+2025-03-08 21:47:36,662 - INFO - Added 'XANTARA' to processed brands list
+2025-03-08 21:47:37,236 - INFO - Found 14 temp files to merge
+2025-03-08 21:47:37,288 - INFO - Loaded existing Excel file with 220 records
+2025-03-08 21:47:37,308 - INFO - Loaded existing CSV file with 220 records
+2025-03-08 21:47:37,427 - INFO - Successfully saved 234 records to Excel file (added 14 new records)
+2025-03-08 21:47:37,435 - INFO - Successfully saved 234 records to CSV file (added 14 new records)
+2025-03-08 21:47:39,646 - INFO - Page 12 completed with 14 new brands. Running total: 234
+2025-03-08 21:47:41,649 - INFO - Performing final merge of temp files...
+2025-03-08 21:47:41,651 - INFO - Forcing merge of all temp files...
+2025-03-08 21:47:41,653 - WARNING - No temp files found to merge
+2025-03-08 21:47:41,871 - INFO - Data count check: JSON: 234, Excel: 234, CSV: 234
+2025-03-08 21:47:41,872 - INFO - Extraction complete. Total new brands scraped: 234
+2025-03-08 21:47:41,873 - INFO - Scraping completed in 518.74 seconds
