@@ -1,0 +1,22 @@
+Write a Python web scraper using Selenium that:
+1. Extracts all product details from a paginated e-commerce website.
+2. Starts from page 1 and moves to the next pages until all products are scraped.
+3. Extracts product name and description from each product page.
+4. Saves each product's details in a separate `.txt` file, named after the product.
+5. Uses **headless Chrome** for faster execution.
+6. Avoids downloading the WebDriver multiple times.
+7. Uses **multi-threading** to process products efficiently.
+8. Saves logs of the scraping process.
+
+Website structure:
+- Product links are found in `div.page--full-width.page--grid a`.
+- The next page button is in `li.pagination-item--next a`.
+- Product details are inside `<h1>` (name) and `div.productView-description` (description).
+
+The script should:
+- Create a `product_details/` folder to store output files.
+- Automatically install missing dependencies.
+- Handle exceptions gracefully.
+
+Use `webdriver_manager` to manage the Chrome driver efficiently.
+Ensure the script stops automatically after the last page.
